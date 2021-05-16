@@ -45,7 +45,7 @@ The new Elected Council for the next school year will update the charter amendme
 
 It is the responsibility of the EC to create an annual Operations Plan. The Operations Plan includes the administrative process of the team to improve quality and increase efficiency in operation. It may include preliminary budgets and operational strategies for each department and a timeline for the pre­season, build season, and competition season.
 
-# Appointed Council (AC): 
+## Appointed Council (AC): 
 Directors and assistant directors are responsible for seeing the completion of their respective jobs, but do not necessarily have to be the ones to complete the job. The role of the director and assistant director is to ensure the job is completed, and to organize/delegate the job(s) to members of the team who wish to help in their specific area.
 
 Assistant directors must be appointed after directors. This is to ensure that directors have a say in who their assistants will be.
