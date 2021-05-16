@@ -76,7 +76,8 @@ During competition, the Director of Strategy and their strategy team are respons
 The Director of Strategy is also responsible for the selection, training, and practice of all members of the drive team. Each member of the drive team is to be selected through tryouts organized by the Director of Strategy, with the exception of a continuing driver, operator, or coach. Conflicting responsibilities are to be taken into account for the final selection. The drive team must be approved by the faculty advisors.
   
 **Assistant Director of Strategy (ADoS):** The Assistant Director of Strategy is responsible for collaborating with the Director of Strategy and the strategy team throughout the season. The Assistant Director of Strategy is to be familiar with all aspects of strategy and be ready to assume the jobs of Director of Strategy if necessary.
-Director of Design: The Director of Design is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the Director of Design.
+
+**Director of Design:** The Director of Design is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the Director of Design.
 
 **Primary Machinist:** The Primary Machinist is responsible for the maintaining the mill, lathe, and their parts. He/she must also make sure that there will be at least two members of the team that will be able to use the mill in the upcoming year, including the Primary Machinist. If there are fewer than two such members, the Primary Machinist is responsible for training new members.
 
