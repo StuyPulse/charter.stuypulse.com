@@ -1,8 +1,8 @@
 # StuyPulse Team Charter
-*Last updated: 2018-8-26*
+*Last updated: 2021-3-9*
 
 ## Mission/Purpose:
-This is a club designed to promote interest in the study of robotics and STEM through the teamwork of students, parents, mentors, and sponsors. We increase robotics awareness in our community and encourage education in engineering, computer science, web design, 3D animation, business, fundraising, and marketing. The club participates in robotics competitions, including ones organized by FIRST, an international robotics organization.
+This is a student led club designed to promote interest in the study of robotics and STEM through the teamwork of students, parents, mentors, and sponsors. We increase robotics and STEM awareness in our community and encourage education in engineering, computer science, web design, 3D animation, business, fundraising, and marketing. The club participates in robotics competitions, including ones organized by FIRST, an international robotics organization.
 
 ## Description:
 The Stuyvesant Robotics Team is an organization dedicated to the practical application of science, technology, and business in the field of robotics. We undergo an intensive, but enjoyable, six-­week build season during which we build a robot for the FIRST Robotics Competition (FRC).
@@ -11,7 +11,7 @@ Our engineering department designs and builds the hardware of the robot, from ea
 
 Our software engineering department develops the software used to control the robot as well as supporting software for the team.
 
-Our marketing department provides real­-world experience in corporate fundraising and advertising as well as managing the logistics of a large team.
+Our marketing department provides real-world experience in non-profit fundraising and advertising as well as managing the logistics of a large team.
 
 Our strategy team, comprised of members from all three departments, offers strategic assistance regarding robot design, gameplay, and alliance selections.
 
@@ -35,7 +35,7 @@ The new Elected Council for the next school year will update the charter amendme
 
 **President of Marketing (PoM):** The President of Marketing holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Chairman’s Award or assign the presentation to someone else deemed competent. The PoM also has adequate knowledge of the other two departments.
 
-**President of Software Engineering (PoSE):** The President of Software Engineering primarily manages the development of robot code and all related software. They also manage the design and development of all human interfaces and control systems. The PoSE is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. They work closely with the PoE to effectively manage the development of the control system alongside the hardware. The PoSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes, as well as the marketing team to coordinate events and regional activities, such as seminars. The PoSE must effectively manage the software development team in order to accomplish these responsibilities and must have the same level of familiarity with the robot as the PoE.
+**President of Software Engineering (PoSE):** The President of Software Engineering primarily manages the development of robot code and all related software. They also manage the design and development of all human interfaces and control systems. The PoSE is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. They work closely with the PoE to effectively manage the development of the control system alongside the hardware. The PoSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes, as well as the marketing team to coordinate events and regional activities, such as seminars. The PoSE must effectively manage the software development team in order to accomplish these responsibilities and must have a similar level of familiarity with the robot as the PoE.
 
 **Vice President of Engineering (VPoE):** The Vice President of Engineering is considered the second-in-command for the Engineering department. They have knowledge of what the Presidents are currently doing and is able to direct the Engineering division in the event of the PoE’s absence. The VPoE also has extensive knowledge of each part of the robot as well as basic knowledge of all awards submissions.
 
@@ -50,40 +50,42 @@ Directors and assistant directors are responsible for seeing the completion of t
 
 Assistant directors must be appointed after directors. This is to ensure that directors have a say in who their assistants will be.
 
-**Director of Electronics:** The Director of Electronics sets up and manages the electronic systems on the robot to FIRST regulations. They cooperate with both engineers and software engineers to ensure that the electronic systems are organised and able to be modified if needed. The DoE is also responsible for the education of other members in the electronics subdepartment.
+**Director of Electronics (DoE):** The Director of Electronics sets up and manages the electronic systems on the robot to FIRST regulations. They cooperate with both engineers and software engineers to ensure that the electronic systems are organised and able to be modified if needed. The DoE is also responsible for the education of other members in the electronics subdepartment.
 
-**Assistant Director of Electronics:** The Assistant Director of Electronics is familiar with all aspects of the electronic systems on the robot and be able to assume the jobs of Director of Electronics at any time.
+**Assistant Director of Electronics (ADoE):** The Assistant Director of Electronics is familiar with all aspects of the electronic systems on the robot and be able to assume the jobs of Director of Electronics at any time.
 
-**Director of Pneumatics:** The Director of Pneumatics is responsible for the creation and management of the pneumatic system on the robot according to FIRST regulations. They cooperate with the electronics subdepartment to organize the pneumatics system alongside the electronics. The director is responsible for the upkeep and maintenance of all compressors, solenoids, and pistons. The DoPn is also responsible for the education of other teams members on the subject of pneumatics. 
+**Director of Pneumatics (DoP):** The Director of Pneumatics is responsible for the creation and management of the pneumatic system on the robot according to FIRST regulations. They cooperate with the electronics subdepartment to organize the pneumatics system alongside the electronics. The director is responsible for the upkeep and maintenance of all compressors, solenoids, and pistons. The DoPn is also responsible for the education of other teams members on the subject of pneumatics. 
 
-**Director of Lab Operations and Safety:** The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. They are responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. The DoLOS is also responsible for ensuring that all necessary safety rules are observed in the lab during build season. The DoLOS will automatically be appointed Safety Captain at the competition and will be responsible for carrying out all duties therein.
+**Director of Lab Operations and Safety (DoLOS):** The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. They are responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. The DoLOS is also responsible for ensuring that all necessary safety rules are observed in the lab during build season. The DoLOS will automatically be appointed Safety Captain at the competition and will be responsible for carrying out all duties therein.
 
-**Director of Procurement:** The Director of Procurement is responsible for overseeing and actualizing the procurement of goods necessary for the team’s operation. The DoP is similarly responsible for identifying adequate substitutes when a necessary resource cannot be obtained from the traditional supplier for a reasonable cost. All procurement requests must be approved by a faculty advisor. The DoP is also required to maintain a detailed, uptodate account of the team’s expenditures, available on request.
+**Director of Procurement (DoP):** The Director of Procurement is responsible for overseeing and actualizing the procurement of goods necessary for the team’s operation. The DoP is similarly responsible for identifying adequate substitutes when a necessary resource cannot be obtained from the traditional supplier for a reasonable cost. All procurement requests must be approved by a faculty advisor. The DoP is also required to maintain a detailed, uptodate account of the team’s expenditures, available on request.
 
-**Director of Finance:** The Director of Finance must ensure the stability of the team’s finances, such as the budget of each department in conjunction with the EC and Faculty Advisors. The DoF must also maintain stable relationships with sponsors and contact them on a regular basis.
+**Director of Finance (DoF):** The Director of Finance must ensure the stability of the team’s finances, such as the budget of each department in conjunction with the EC and Faculty Advisors. The DoF must also maintain stable relationships with sponsors and contact them on a regular basis.
 
-**Director of Operations:** The Director of Operations will handle the day­to­day operations of the marketing division and the whole team. The DoO is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. The Director of Operations is also responsible for award submissions, as well as a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
+**Director of Operations (DoO):** The Director of Operations will handle the day­to­day operations of the marketing division and the whole team. The DoO is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. The Director of Operations is also responsible for award submissions, as well as a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
 
-**Director of Public Relations:** The Director of Public Relations will plan for outreach events and direct all outreach initiatives, such as Stuy Splash and public demonstrations. At the same time, the DoPR is responsible for creating a strong team media presence using blogs, photographs, videos, social media, and other media. 
+**Director of Public Relations (DoPR):** The Director of Public Relations will plan for outreach events and direct all outreach initiatives, such as Stuy Splash and public demonstrations. At the same time, the DoPR is responsible for creating a strong team media presence using blogs, photographs, videos, social media, and other media. 
 
-**Director of Media:** The Director of Media is responsible for the creation of all visual and media content for our social media platforms. They are also responsible for taking pictures and videos at all team events. They are to work alongside the Director of Public Relations to create necessary content. The DoM is also responsible for leading and educating the members of the media team. 
+**Director of Media (DoM):** The Director of Media is responsible for the creation of all visual and media content for our social media platforms. They are also responsible for taking pictures and videos at all team events. They are to work alongside the Director of Public Relations to create necessary content. The DoM is also responsible for leading and educating the members of the media team, composed of members from all three departments and in charge of all media related matters (e.g. videos, pictures, etc.).
 
-**Director of Strategy:** The Director of Strategy is responsible for all things strategy-related.
+**Director of Strategy (DoS):** The Director of Strategy is responsible for all things strategy-related.
 The Director of Strategy is responsible for recruiting, structuring, running and ensuring the wellbeing of a team of strategists. From the start of the season, the Director of Strategy must ensure that all team members know game and robot rules. The Director of Strategy can suggest designs, features, and/or adjustments to the robot, as well as autonomous routines, to allow for possible gameplay strategies. In addition, the Director of Strategy assembles and trains match scouts that will gather data on other teams during competitions.
 
 During competition, the Director of Strategy and their strategy team are responsible for creating match strategies and communicating with our drive team and those of other teams in our alliances. In addition, the Director of Strategy is responsible for heading and collaborating with their team of strategists in making a list of teams for alliance selections, the size of which should be at least one less than the number of teams moving into eliminations for the given competition.
   
 The Director of Strategy is also responsible for the selection, training, and practice of all members of the drive team. Each member of the drive team is to be selected through tryouts organized by the Director of Strategy, with the exception of a continuing driver, operator, or coach. Conflicting responsibilities are to be taken into account for the final selection. The drive team must be approved by the faculty advisors.
   
-**Assistant Director of Strategy:** The Assistant Director of Strategy is responsible for collaborating with the Director of Strategy and the strategy team throughout the season. The Assistant Director of Strategy is to be familiar with all aspects of strategy and be ready to assume the jobs of Director of Strategy if necessary.
-Director of Design: The Director of Design is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the Director of Design.
+**Assistant Director of Strategy (ADoS):** The Assistant Director of Strategy is responsible for collaborating with the Director of Strategy and the strategy team throughout the season. The Assistant Director of Strategy is to be familiar with all aspects of strategy and be ready to assume the jobs of Director of Strategy if necessary.
+
+**Director of Design:** The Director of Design is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the Director of Design.
 
 **Primary Machinist:** The Primary Machinist is responsible for the maintaining the mill, lathe, and their parts. He/she must also make sure that there will be at least two members of the team that will be able to use the mill in the upcoming year, including the Primary Machinist. If there are fewer than two such members, the Primary Machinist is responsible for training new members.
 
-**Director of Field Construction:** It is the job of the Director of Field Construction to construct the field of the released game with acceptable accuracy. For each function that the robot has to perform, it is this person’s responsibility to ensure that at least one set of the field elements involved in that task is procured and produced. However, the DoFC will also be responsible for all other fields, including FLL, FTC, and FRC fields. They are responsible for the upkeep of the shipping/robot crates and building new robot carts.
-Director of Research and Development: The Director of Research and Development is in charge of researching and developing various topics in software engineering. They are to make sure Proof-Of-Concepts (PoCs) are made for each topic. The DoR&D is also responsible for apportioning people to look into certain projects, and ensuring the projects are ready for use on the robot if/when they are needed. 
+**Director of Field Construction (DoFC):** It is the job of the Director of Field Construction to construct the field of the released game with acceptable accuracy. For each function that the robot has to perform, it is this person’s responsibility to ensure that at least one set of the field elements involved in that task is procured and produced. However, the DoFC will also be responsible for all other fields, including FLL, FTC, and FRC fields. They are responsible for the upkeep of the shipping/robot crates and building new robot carts.
 
-**Director of Newbie Relations (SE):** The Director of Newbie Relations for software engineering is responsible for the education of new members in software engineering, development of a curriculum, and ensuring the lessons are made in advance. The DoNR is also responsible for ensuring the new members feel included, and have tasks during the off-season. 
+**Director of Research and Development (DoR&D):** The Director of Research and Development is in charge of researching and developing various topics in software engineering. They are to make sure Proof-Of-Concepts (PoCs) are made for each topic. The DoR&D is also responsible for apportioning people to look into certain projects, and ensuring the projects are ready for use on the robot if/when they are needed. 
+
+**Director of Newbie Relations (SE) (DoNR):** The Director of Newbie Relations for software engineering is responsible for the education of new members in software engineering, development of a curriculum, and ensuring the lessons are made in advance. The DoNR is also responsible for ensuring the new members feel included, and have tasks during the off-season. 
 
 **Webmaster:** The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster is to update the website with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested.
 
@@ -91,7 +93,7 @@ Director of Research and Development: The Director of Research and Development i
 Elections will take place after the charter meeting each year. This is done in order to give the newly elected officials a chance to become familiar with the position and with the handling of the team. After members have been elected to their positions, they will appoint members to the AC. There is no term limit for any position, but candidates must run for election every year, whether or not there is any opposition. A member of the team who will no longer be a Stuyvesant student the following year or who is not eligible to vote may not run for any elected position.
 
 ### Rules for Elections:
-- Elections will begin with a call of attendance, after which nobody may leave the room without permission and without filing an absentee ballot.
+- Elections will begin with a call of attendance, after which nobody may leave the room without permission and without filing an absentee ballot, assuming that member is eligible to vote.
 - All members at or above a certain attendance percentage who have paid their team dues, have passed the safety test, and have written a reflection may attend and vote. This percentage will be decided by the EC and faculty advisors. Prior to the elections, a list of eligible members must be made available.
 - An absentee ballot is an official ballot on which the person leaving writes down the name of one person for every position for which they wish to cast a vote. The ballot will be given to the person in charge of elections. If the absentee does not choose a candidate for a position, they are abstaining from the vote for that position.
 - One team member, chosen by the Elected Council, will preside over elections as Moderator. They must uphold the rules, maintain order, and mediate any disputes that arise.
@@ -112,6 +114,9 @@ The Presidents will ask for nominations for the position. Any team member may no
 
 ### Candidate Presentations:
  Each candidate is given up to four minutes to present his or her qualifications for the position. The order of the presentation will be determined by the members running the election.
+
+### Discussion
+A discussion will be held for each position following the presentations of those running for the position. The candidates are to be outside the room during the discussion period. 
 
 ### Voting:
 When the presentations are completed, all candidates will be asked to leave the room and voting will commence.
@@ -140,7 +145,7 @@ AC positions may be held by any team member, regardless of the department that t
 An individual is allowed to hold only one (1) position on the team, whether that be on the EC or AC.
 
 ## Impeachment:
-Any member of the EC/AC may be impeached for reasons that include but aren’t limited to:
+Any member of the EC/AC, Chairman's team, or drive team may be impeached for reasons that include but aren’t limited to:
 - Dereliction of duty
 - Poor attendance
 - Ignoring or disregarding the general will of the team
@@ -150,11 +155,27 @@ Any member of the EC/AC may be impeached for reasons that include but aren’t l
   - Intimidation of members
   - Misappropriation of team resources
 
-Impeachment proceedings are initiated through warnings given by a two-thirds majority of the EC/AC. The officer in question may defend himself/herself, and a two-thirds majority of the entire team will uphold the impeachment. Impeachment shall not be used to settle political or personal disputes. An impeached officer may remain as a team member, but may not run for a position without renewed approval by the Elected and Appointed Council.
+Impeachment proceedings for EC/AC are initiated through warnings given by a two-thirds majority of the EC/AC. The officer in question may defend himself/herself, and a two-thirds majority of the entire team will uphold the impeachment. 
 
-Any officers, unless suspended by the faculty advisor(s), may be reappointed at any time by a two-thirds majority vote of the Elected Members. In the event of an impeachment or in the event that a member of the EC/AC resigns, the position will be filled by a two-thirds majority vote of the remaining EC/AC.
+Any officers, unless suspended by the faculty advisor(s), may be reappointed at any time by a two-­thirds majority vote of the Elected Members. In the event of an impeachment or in the event that a member of the EC/AC resigns, the position will be filled by a two-thirds majority vote of the remaining EC/AC. When the position of President of Engineering, President of Marketing, or President of Software Engineering is vacant, his/her Vice President may temporarily fill the position as President until the EC/AC has elected another member of the team to serve as President.
 
-When the position of President of Engineering, President of Marketing, or President of Software Engineering is vacant, his/her Vice President may temporarily fill the position as President until the EC/AC has elected another member of the team to serve as President.
+Impeachment proceedings for the Chairman's and drive team are initiated through warnings given by those responsible for each team. 
+
+Those responsible for the Chairman’s team include:
+- EC
+- Members of the Chairman’s team
+
+Those responsible for the drive team include:
+- EC
+- DoS
+- ADoS
+- Members of drive team
+
+The member in question may defend himself/herself, and the EC may uphold a decision to immediately remove the member under extreme circumstances. 
+
+Any Chairman’s or drive team member, unless suspended by the faculty advisor(s), may be reappointed at any time by a simple majority of those responsible for each team. In the event of an impeachment or in the event that a member of the drive team or Chairman’s team resigns, the position will be filled by a simple majority vote of those responsible for each team.
+
+Impeachment shall not be used to settle political or personal disputes. 
 
 ## Award Nominations:
 ### Woodie Flowers Award: 
