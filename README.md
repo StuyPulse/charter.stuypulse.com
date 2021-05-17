@@ -1,11 +1,10 @@
 # StuyPulse Team Charter
-*Last updated: 2021-3-9*
 
 ## Mission/Purpose:
 This is a student led club designed to promote interest in the study of robotics and STEM through the teamwork of students, parents, mentors, and sponsors. We increase robotics and STEM awareness in our community and encourage education in engineering, computer science, web design, 3D animation, business, fundraising, and marketing. The club participates in robotics competitions, including ones organized by FIRST, an international robotics organization.
 
 ## Description:
-The Stuyvesant Robotics Team is an organization dedicated to the practical application of science, technology, and business in the field of robotics. We undergo an intensive, but enjoyable, six-­week build season during which we build a robot for the FIRST Robotics Competition (FRC).
+The Stuyvesant Robotics Team is an organization dedicated to the practical application of science, technology, and business in the field of robotics. We undergo an intensive, but enjoyable, six-week build season during which we build a robot for the FIRST Robotics Competition (FRC).
 
 Our engineering department designs and builds the hardware of the robot, from each of the mechanical components to the electronic and pneumatic systems.
 
@@ -58,8 +57,6 @@ Assistant directors must be appointed after directors. This is to ensure that di
 
 **Director of Lab Operations and Safety (DoLOS):** The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. They are responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. The DoLOS is also responsible for ensuring that all necessary safety rules are observed in the lab during build season. The DoLOS will automatically be appointed Safety Captain at the competition and will be responsible for carrying out all duties therein.
 
-**Director of Procurement (DoP):** The Director of Procurement is responsible for overseeing and actualizing the procurement of goods necessary for the team’s operation. The DoP is similarly responsible for identifying adequate substitutes when a necessary resource cannot be obtained from the traditional supplier for a reasonable cost. All procurement requests must be approved by a faculty advisor. The DoP is also required to maintain a detailed, uptodate account of the team’s expenditures, available on request.
-
 **Director of Finance (DoF):** The Director of Finance must ensure the stability of the team’s finances, such as the budget of each department in conjunction with the EC and Faculty Advisors. The DoF must also maintain stable relationships with sponsors and contact them on a regular basis.
 
 **Director of Operations (DoO):** The Director of Operations will handle the day­to­day operations of the marketing division and the whole team. The DoO is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. The Director of Operations is also responsible for award submissions, as well as a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
@@ -79,15 +76,15 @@ The Director of Strategy is also responsible for the selection, training, and pr
 
 **Director of Design:** The Director of Design is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the Director of Design.
 
-**Primary Machinist:** The Primary Machinist is responsible for the maintaining the mill, lathe, and their parts. He/she must also make sure that there will be at least two members of the team that will be able to use the mill in the upcoming year, including the Primary Machinist. If there are fewer than two such members, the Primary Machinist is responsible for training new members.
+**Director of Machining:** The Director of Machining is responsible for the maintaining the mill, lathe, and their parts. He/she must also make sure that there will be at least two members of the team that will be able to use the mill in the upcoming year, including the Director of Machining. If there are fewer than two such members, the Director of Machining is responsible for training new members.
 
 **Director of Field Construction (DoFC):** It is the job of the Director of Field Construction to construct the field of the released game with acceptable accuracy. For each function that the robot has to perform, it is this person’s responsibility to ensure that at least one set of the field elements involved in that task is procured and produced. However, the DoFC will also be responsible for all other fields, including FLL, FTC, and FRC fields. They are responsible for the upkeep of the shipping/robot crates and building new robot carts.
 
-**Director of Research and Development (DoR&D):** The Director of Research and Development is in charge of researching and developing various topics in software engineering. They are to make sure Proof-Of-Concepts (PoCs) are made for each topic. The DoR&D is also responsible for apportioning people to look into certain projects, and ensuring the projects are ready for use on the robot if/when they are needed. 
-
 **Director of Newbie Relations (SE) (DoNR):** The Director of Newbie Relations for software engineering is responsible for the education of new members in software engineering, development of a curriculum, and ensuring the lessons are made in advance. The DoNR is also responsible for ensuring the new members feel included, and have tasks during the off-season. 
 
-**Webmaster:** The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster is to update the website with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested.
+**Assistant Director of Newbie Relations (SE) (ADoNR):** The Assistant Director of Newbie Relations should be primarily responsible for managing groups and communication and splitting up oldbie resources to most effectively promote group work. Beyond that, the ADoNR should also be responsible for assisting the DoNR with creating the curriculum, coming up with ideas, and lecturing. The Assistant Director of Newbie Relations is to be familiar with all aspects of newbie education and be ready to assume the jobs of Director of Newbie Relations if necessary.
+
+**Webmaster:** The job of the Webmaster(s) is to maintain the team website and any other websites created by the team. The Webmaster(s) are to update the website with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested. The Webmaster(s) must be quick to respond to marketing, Mr. Blay, EC members, etc., when new changes to the website are proposed or need to be made. They must also be prepared to help teach Webmaster(s) with less experience or team members hoping to become Webmaster(s). Unlike other positions, the Webmaster(s) may consist of one or more people.
 
 ## Elections:
 Elections will take place after the charter meeting each year. This is done in order to give the newly elected officials a chance to become familiar with the position and with the handling of the team. After members have been elected to their positions, they will appoint members to the AC. There is no term limit for any position, but candidates must run for election every year, whether or not there is any opposition. A member of the team who will no longer be a Stuyvesant student the following year or who is not eligible to vote may not run for any elected position.
