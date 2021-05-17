@@ -1,5 +1,17 @@
 # StuyPulse Team Charter
 
+## Table of Contents
+- [Mission/Purpose](#missionpurpose)
+- [Description](#description)
+- [Charter Amendments](#charter-amendments)
+- [Elected Council (EC)](#elected-council-ec)
+- [Appointed Council (AC)](#appointed-council-ac)
+- [Elections](#elections)
+- [Appointment](#appointment)
+- [Impeachment](#impeachment)
+- [Award Nominations](#award-nominations)
+- [Additional Amendments](#additional-amendments)
+
 ## Mission/Purpose:
 This is a student led club designed to promote interest in the study of robotics and STEM through the teamwork of students, parents, mentors, and sponsors. We increase robotics and STEM awareness in our community and encourage education in engineering, computer science, web design, 3D animation, business, fundraising, and marketing. The club participates in robotics competitions, including ones organized by FIRST, an international robotics organization.
 
