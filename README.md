@@ -7,18 +7,9 @@
 - [Elected Council (EC)](#elected-council-ec)
 - [Appointed Council (AC)](#appointed-council-ac)
 - [Elections](#elections)
-- [Rules for Elections](#rules-for-elections)
-- [Order of Elections](#order-of-elections)
-- [Election Process](#election-process)
-- [Nominations](#nominations)
-- [Candidate Presentations](#candidate-presentations)
-- [Discussion](#discussion)
-- [Voting](#voting)
 - [Appointment](#appointment)
 - [Impeachment](#impeachment)
 - [Award Nominations](#award-nominations)
-- [Woodie Flowers Award](#woodie-flowers-award)
-- [Dean’s List Award](#deans-list-award)
 - [Additional Amendments](#additional-amendments)
 
 ## Mission/Purpose:
