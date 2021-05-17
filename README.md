@@ -1,4 +1,4 @@
-# StuyPulse Team Charter
+# [![StuyPulse Team Charter](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/charter-banner.png)](https://charter.stuypulse.com/)
 
 ## Table of Contents
 - [Mission/Purpose](#missionpurpose)

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="index.css"/>
+
+    <title>StuyPulse Charter</title>
+</head>
+<body>
+    
+    <div id="charter">
+        <a href="#charter" style="bottom:-200px;" id="to-top">Go to top!</a>
+    </div> 
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+
+        const CHARTER = 
+            'https://raw.githubusercontent.com/StuyPulse/Charter/main/README.md';
+
+        async function getCharter() {
+            let response = await fetch(CHARTER);
+            response = await response.text();
+            return response;
+        }
+
+        async function loadCharter() {
+            let charter = document.getElementById("charter");
+            charter.innerHTML += marked(await getCharter());
+        }
+
+        window.onload = async () => {
+            // ...
+            await loadCharter();
+        };
+
+        window.onscroll = () => {
+            let btn = document.getElementById("to-top");
+            let fromTop = (window.scrollY);
+
+            if (fromTop < 420) {
+                btn.style.bottom = "-200px";
+            } else {
+                btn.style.bottom = "2%";
+            }
+
+        };
+
+    </script>
+
+</body>
+</html>

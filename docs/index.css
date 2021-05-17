@@ -1,0 +1,66 @@
+:root {
+    --header-color: #ff0000;
+    --text-color: darkred;
+    --link-color: darkgray;
+    --link-color-alt: gray;
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#to-top {
+    position: fixed;
+
+    bottom: 2%;
+    right: 2%;
+
+    background-color: #ff2121;
+    color: white;
+
+    text-decoration: none;
+
+    padding: 20px;
+    border-radius: 25px;
+
+    transition: 0.2s;
+}
+
+#to-top:hover {
+    background-color: red;
+    bottom: 1.8%;
+}
+
+#charter {
+    margin: 0 auto;
+    width: 50%;
+}
+
+@media only screen and (max-width: 1024px) {
+    #charter {
+        width: 100%;
+    }
+}
+
+img {
+    max-width: 100%;
+}
+
+
+/*
+h1, h2, h3, h4, h5, h6 {
+    color: var(--text-color);
+}
+
+p, li {
+    color: var(--text-color);
+}
+
+a {
+    color: var(--link-color);
+}
+
+a:active {
+    color: var(--link-color-alt);
+}
+*/
