@@ -21,6 +21,16 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
 
+        window.onload = async () => {
+            // ...
+            await loadCharter();
+            loadIntoView();
+        };
+
+        //////////////////
+        // LOAD CHARTER //
+        //////////////////
+
         const CHARTER = 
             'https://raw.githubusercontent.com/StuyPulse/Charter/main/README.md';
 
@@ -35,10 +45,31 @@
             charter.innerHTML += marked(await getCharter());
         }
 
-        window.onload = async () => {
-            // ...
-            await loadCharter();
-        };
+        //////////////////////
+        // HANDLE REDIRECTS //
+        //////////////////////
+
+        function getUrl() {
+            return new URL(window.location.href);
+        }
+
+        function loadIntoView() {
+            const url = getUrl();
+            const hash = url.hash.substring(1);
+
+            if (hash !== '') {
+                const location = document.getElementById(hash); 
+                const exists = location !== null;
+                
+                if (exists) {
+                    location.scrollIntoView();
+                }
+            } 
+        }
+
+        ///////////
+        // MISC. //
+        ///////////
 
         window.onscroll = () => {
             let btn = document.getElementById("to-top");
