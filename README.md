@@ -61,21 +61,7 @@ Directors and assistant directors are responsible for seeing the completion of t
 
 Assistant directors must be appointed after directors. This is to ensure that directors have a say in who their assistants will be.
 
-**Director of Electronics (DoE):** The Director of Electronics sets up and manages the electronic systems on the robot to FIRST regulations. They cooperate with both engineers and software engineers to ensure that the electronic systems are organised and able to be modified if needed. The DoE is also responsible for the education of other members in the electronics subdepartment.
-
-**Assistant Director of Electronics (ADoE):** The Assistant Director of Electronics is familiar with all aspects of the electronic systems on the robot and be able to assume the jobs of Director of Electronics at any time.
-
-**Director of Pneumatics (DoP):** The Director of Pneumatics is responsible for the creation and management of the pneumatic system on the robot according to FIRST regulations. They cooperate with the electronics subdepartment to organize the pneumatics system alongside the electronics. The director is responsible for the upkeep and maintenance of all compressors, solenoids, and pistons. The DoPn is also responsible for the education of other teams members on the subject of pneumatics. 
-
-**Director of Lab Operations and Safety (DoLOS):** The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. They are responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. The DoLOS is also responsible for ensuring that all necessary safety rules are observed in the lab during build season. The DoLOS will automatically be appointed Safety Captain at the competition and will be responsible for carrying out all duties therein.
-
-**Director of Finance (DoF):** The Director of Finance must ensure the stability of the team’s finances, such as the budget of each department in conjunction with the EC and Faculty Advisors. The DoF must also maintain stable relationships with sponsors and contact them on a regular basis.
-
-**Director of Operations (DoO):** The Director of Operations will handle the day­to­day operations of the marketing division and the whole team. The DoO is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. The Director of Operations is also responsible for award submissions, as well as a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
-
-**Director of Public Relations (DoPR):** The Director of Public Relations will plan for outreach events and direct all outreach initiatives, such as Stuy Splash and public demonstrations. At the same time, the DoPR is responsible for creating a strong team media presence using blogs, photographs, videos, social media, and other media. 
-
-**Director of Media (DoM):** The Director of Media is responsible for the creation of all visual and media content for our social media platforms. They are also responsible for taking pictures and videos at all team events. They are to work alongside the Director of Public Relations to create necessary content. The DoM is also responsible for leading and educating the members of the media team, composed of members from all three departments and in charge of all media related matters (e.g. videos, pictures, etc.).
+### Strategy
 
 **Director of Strategy (DoS):** The Director of Strategy is responsible for all things strategy-related.
 The Director of Strategy is responsible for recruiting, structuring, running and ensuring the wellbeing of a team of strategists. From the start of the season, the Director of Strategy must ensure that all team members know game and robot rules. The Director of Strategy can suggest designs, features, and/or adjustments to the robot, as well as autonomous routines, to allow for possible gameplay strategies. In addition, the Director of Strategy assembles and trains match scouts that will gather data on other teams during competitions.
@@ -86,11 +72,33 @@ The Director of Strategy is also responsible for the selection, training, and pr
   
 **Assistant Director of Strategy (ADoS):** The Assistant Director of Strategy is responsible for collaborating with the Director of Strategy and the strategy team throughout the season. The Assistant Director of Strategy is to be familiar with all aspects of strategy and be ready to assume the jobs of Director of Strategy if necessary.
 
+### Marketing
+
+**Director of Finance (DoF):** The Director of Finance must ensure the stability of the team’s finances, such as the budget of each department in conjunction with the EC and Faculty Advisors. The DoF must also maintain stable relationships with sponsors and contact them on a regular basis.
+
+**Director of Operations (DoO):** The Director of Operations will handle the day­to­day operations of the marketing division and the whole team. The DoO is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. The Director of Operations is also responsible for award submissions, as well as a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
+
+**Director of Public Relations (DoPR):** The Director of Public Relations will plan for outreach events and direct all outreach initiatives, such as Stuy Splash and public demonstrations. At the same time, the DoPR is responsible for creating a strong team media presence using blogs, photographs, videos, social media, and other media. 
+
+**Director of Media (DoM):** The Director of Media is responsible for the creation of all visual and media content for our social media platforms. They are also responsible for taking pictures and videos at all team events. They are to work alongside the Director of Public Relations to create necessary content. The DoM is also responsible for leading and educating the members of the media team, composed of members from all three departments and in charge of all media related matters (e.g. videos, pictures, etc.).
+
+### Engineering
+
+**Director of Electronics (DoE):** The Director of Electronics sets up and manages the electronic systems on the robot to FIRST regulations. They cooperate with both engineers and software engineers to ensure that the electronic systems are organised and able to be modified if needed. The DoE is also responsible for the education of other members in the electronics subdepartment.
+
+**Assistant Director of Electronics (ADoE):** The Assistant Director of Electronics is familiar with all aspects of the electronic systems on the robot and be able to assume the jobs of Director of Electronics at any time.
+
+**Director of Pneumatics (DoP):** The Director of Pneumatics is responsible for the creation and management of the pneumatic system on the robot according to FIRST regulations. They cooperate with the electronics subdepartment to organize the pneumatics system alongside the electronics. The director is responsible for the upkeep and maintenance of all compressors, solenoids, and pistons. The DoPn is also responsible for the education of other teams members on the subject of pneumatics. 
+
+**Director of Lab Operations and Safety (DoLOS):** The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. They are responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. The DoLOS is also responsible for ensuring that all necessary safety rules are observed in the lab during build season. The DoLOS will automatically be appointed Safety Captain at the competition and will be responsible for carrying out all duties therein.
+
 **Director of Design (DoD):** The Director of Design is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the Director of Design.
 
 **Director of Machining (DoM):** The Director of Machining is responsible for the maintaining the mill, lathe, and their parts. He/she must also make sure that there will be at least two members of the team that will be able to use the mill in the upcoming year, including the Director of Machining. If there are fewer than two such members, the Director of Machining is responsible for training new members.
 
 **Director of Field Construction (DoFC):** It is the job of the Director of Field Construction to construct the field of the released game with acceptable accuracy. For each function that the robot has to perform, it is this person’s responsibility to ensure that at least one set of the field elements involved in that task is procured and produced. However, the DoFC will also be responsible for all other fields, including FLL, FTC, and FRC fields. They are responsible for the upkeep of the shipping/robot crates and building new robot carts.
+
+### Software Engineering
 
 **Director of Newbie Relations (SE) (DoNR):** The Director of Newbie Relations for software engineering is responsible for the education of new members in software engineering, development of a curriculum, and ensuring the lessons are made in advance. The DoNR is also responsible for ensuring the new members feel included, and have tasks during the off-season. 
 
