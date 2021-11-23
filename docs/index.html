@@ -42,7 +42,7 @@
 
         async function loadCharter() {
             let charter = document.getElementById("charter");
-            charter.innerHTML += marked(await getCharter());
+            charter.innerHTML += marked.parse(await getCharter());
         }
 
         //////////////////////
