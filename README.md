@@ -22,15 +22,15 @@ Our engineering department designs and builds the hardware of the robot, from ea
 
 Our software engineering department develops the software used to control the robot as well as supporting software for the team.
 
-Our marketing department provides real-world experience in non-profit fundraising and advertising as well as managing the logistics of a large team.
+Our business department provides real-world experience in non-profit fundraising and advertising as well as managing the logistics of a large team.
 
 Our strategy team, comprised of members from all three departments, offers strategic assistance regarding robot design, gameplay, and alliance selections.
 
-Our media team, comprised of members from all three departments, is led by the marketing department and is in charge of all media related matters (e.g. videos, pictures, etc.).
+Our media team, comprised of members from all three departments, is led by the business department and is in charge of all media related matters (e.g. videos, pictures, etc.).
 
-Our Chairman’s team, comprised of members from all three departments, is led by the marketing department and is in charge of all matters related to the Chairman’s Award (e.g. presentation, essay, speech, outreach ideas, video ideas, etc.). 
+Our Inspiration Team, comprised of members from all three departments, is led by the business department and is in charge of all matters related to the Inspiration Award (e.g. presentation, essay, speech, outreach ideas, video ideas, etc.).
 
-We require no prior experience at all in engineering, software engineering, marketing, strategy, media, or presenting and will teach the skills members need to be able to participate in FRC.
+We require no prior experience at all in engineering, software engineering, business, strategy, media, or presenting and will teach the skills members need to be able to participate in FRC.
 
 Membership on StuyPulse is unrestricted. The club does not restrict membership on the basis of race, gender, ethnicity, commitment to other clubs, grade, or any other such factors. It is understood that those students who enjoy the club will attend and those who do not attend will not be considered members of the club.
 
@@ -42,9 +42,9 @@ The Moderator(s) of the charter meeting shall appoint a minutes taker. The minut
 The new Elected Council for the next school year will update the charter amendments in a timely manner and before the next charter meeting. 
 
 ## Elected Council (EC):
-**President of Engineering (PoE):** The President of Engineering is familiar with every part of the robot, able to explain the part to another team member or a judge, as well as able to repair any part of the robot if it is broken. They are also knowledgeable about the details of the Chairman’s Award submission and other award submissions.
+**President of Engineering (PoE):** The President of Engineering is familiar with every part of the robot, able to explain the part to another team member or a judge, as well as able to repair any part of the robot if it is broken. They are also knowledgeable about the details of the Impact Award submission and other award submissions.
 
-**President of Marketing (PoM):** The President of Marketing holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Chairman’s Award or assign the presentation to someone else deemed competent. The PoM also has adequate knowledge of the other two departments.
+**President of Marketing (PoM):** The President of Marketing holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Impact Award or assign the presentation to someone else deemed competent. The PoM also has adequate knowledge of the other two departments.
 
 **President of Software Engineering (PoSE):** The President of Software Engineering primarily manages the development of robot code and all related software. They also manage the design and development of all human interfaces and control systems. The PoSE is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. They work closely with the PoE to effectively manage the development of the control system alongside the hardware. The PoSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes, as well as the marketing team to coordinate events and regional activities, such as seminars. The PoSE must effectively manage the software development team in order to accomplish these responsibilities and must have a similar level of familiarity with the robot as the PoE.
 
@@ -104,7 +104,10 @@ The Director of Strategy is also responsible for the selection, training, and pr
 
 **Assistant Director of Newbie Relations (SE) (ADoNR):** The Assistant Director of Newbie Relations should be primarily responsible for managing groups and communication and splitting up oldbie resources to most effectively promote group work. Beyond that, the ADoNR should also be responsible for assisting the DoNR with creating the curriculum, coming up with ideas, and lecturing. The Assistant Director of Newbie Relations is to be familiar with all aspects of newbie education and be ready to assume the jobs of Director of Newbie Relations if necessary.
 
-**Webmaster:** The job of the Webmaster(s) is to maintain the team website and any other websites created by the team. The Webmaster(s) are to update the website with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested. The Webmaster(s) must be quick to respond to marketing, Mr. Blay, EC members, etc., when new changes to the website are proposed or need to be made. They must also be prepared to help teach Webmaster(s) with less experience or team members hoping to become Webmaster(s). Unlike other positions, the Webmaster(s) may consist of one or more people.
+**Director of I/T (SE) (DoIT):** Responsible for creating new technology related to team logistics, continuous integration and development of existing technology, documenting existing tools, teaching members interested in I/T. The director ensures that I/T responsibilities are focused on the team website, the team manager, and important tools for attendance. The director of I/T will also have to communicate with business to ensure the team's website is up to date.
+
+**Assistant Director of I/T (SE) (ADoIT):** The Assistant Director of I/T should be familiar with the tools the I/T sub-department uses. The Assistant Director of I/T
+will be able to assume responsbility of Director of I/T whenever needed.
 
 ## Elections:
 Elections will take place after the charter meeting each year. This is done in order to give the newly elected officials a chance to become familiar with the position and with the handling of the team. After members have been elected to their positions, they will appoint members to the AC. There is no term limit for any position, but candidates must run for election every year, whether or not there is any opposition. A member of the team who will no longer be a Stuyvesant student the following year or who is not eligible to vote may not run for any elected position.
@@ -136,7 +139,7 @@ The Presidents will ask for nominations for the position. Any team member may no
 A discussion will be held for each position following the presentations of those running for the position. The candidates are to be outside the room during the discussion period. 
 
 ### Voting:
-When the presentations are completed, all candidates will be asked to leave the room and voting will commence.
+When the presentations are completed, all candidates will be asked to leave the room and voting will commence. Voting for a department's candidate will only be done by the department if that department has 9 or more members. Otherwise, the entire team will vote on that candidate. 
 - Ballots will be counted by the Moderator and one official mentor. Vote totals will not be made public to the team.
 - Submitted ballots may only be viewed by the Moderator and the mentors. If another member of the team has intentionally viewed a ballot, that member will lose their right to vote for the remainder of the elections.
 - If no member is nominated for a position, the position will become appointed.
@@ -145,9 +148,9 @@ When the presentations are completed, all candidates will be asked to leave the 
 - A member may choose to abstain from voting during the election for any given position.
 - If a candidate is running unopposed, then the voting process will be expedited with a limited question and answer period.
 - If more than two candidates are running for a given position, the following will occur:
-- Each member of the team will be given one vote to be cast towards a candidate. If a given candidate gets a majority vote, they will be immediately be appointed without a runoff. If no candidate gets a majority vote, the top two candidates will go into a runoff.
+- Each member of the department or team will be given one vote to be cast towards a candidate. If a given candidate gets a majority vote, they will be immediately be appointed without a runoff. If no candidate gets a majority vote, the top two candidates will go into a runoff.
 - If there is no majority vote or if only two members are nominated for a given position, the election automatically goes to a runoff.
-- Every member of the team will vote for one of the two candidates and the candidate with the highest number of votes wins. If the case that a two-thirds majority of the members choose not to vote, the position will become appointed.
+- Every member of the department or team will vote for one of the two candidates and the candidate with the highest number of votes wins. If the case that a two-thirds majority of the members choose not to vote, the position will become appointed.
 - In the case that no member is elected to any position, all present members of the current EC/AC will appoint the Presidents to represent the new EC/AC and follow the procedures of appointment.
 
 ## Appointment: 
@@ -162,9 +165,9 @@ AC positions may be held by any team member, regardless of the department that t
 An individual is allowed to hold only one (1) position on the team, whether that be on the EC or AC.
 
 ## Impeachment:
-Any member of the EC/AC, Chairman's team, or drive team may be impeached for reasons that include but aren’t limited to:
+Any member of the EC/AC, Impact Team, or drive team may be impeached for reasons that include but aren’t limited to:
 - Dereliction of duty
-- Poor attendance
+- Poor attendance, meaning missing 4 or more of last 10 meetings
 - Ignoring or disregarding the general will of the team
 - Performing actions that are legally or morally detrimental to the team, such as:
   - Embezzlement
@@ -176,11 +179,11 @@ Impeachment proceedings for EC/AC are initiated through warnings given by a two-
 
 Any officers, unless suspended by the faculty advisor(s), may be reappointed at any time by a two-­thirds majority vote of the Elected Members. In the event of an impeachment or in the event that a member of the EC/AC resigns, the position will be filled by a two-thirds majority vote of the remaining EC/AC. When the position of President of Engineering, President of Marketing, or President of Software Engineering is vacant, his/her Vice President may temporarily fill the position as President until the EC/AC has elected another member of the team to serve as President.
 
-Impeachment proceedings for the Chairman's and drive team are initiated through warnings given by those responsible for each team. 
+Impeachment proceedings for the Impact and drive team are initiated through warnings given by those responsible for each team. 
 
-Those responsible for the Chairman’s team include:
+Those responsible for the Impact Team include:
 - EC
-- Members of the Chairman’s team
+- Members of the Impact Team
 
 Those responsible for the drive team include:
 - EC
@@ -188,11 +191,11 @@ Those responsible for the drive team include:
 - ADoS
 - Members of drive team
 
-The member in question may defend himself/herself, and the EC may uphold a decision to immediately remove the member under extreme circumstances. 
+The member in question may defend himself/herself, and the EC may uphold a decision to immediately remove the member under extreme circumstances.
 
-Any Chairman’s or drive team member, unless suspended by the faculty advisor(s), may be reappointed at any time by a simple majority of those responsible for each team. In the event of an impeachment or in the event that a member of the drive team or Chairman’s team resigns, the position will be filled by a simple majority vote of those responsible for each team.
+Any Impact or drive team member, unless suspended by the faculty advisor(s), may be reappointed at any time by a simple majority of those responsible for each team. In the event of an impeachment or in the event that a member of the drive team or Impact Team resigns, the position will be filled by a simple majority vote of those responsible for each team.
 
-Impeachment shall not be used to settle political or personal disputes. 
+Impeachment shall not be used to settle political or personal disputes.
 
 ## Award Nominations:
 ### Woodie Flowers Award: 
@@ -253,3 +256,5 @@ After selecting two students for the award, the moderators shall inform the head
 There will be an attendance requirement, as a percentage, to go on team trips. The exact number will be determined by the EC and faculty advisors.
 
 The EC may call charter or team meetings throughout the year as needed
+
+Attendance is required to be taken on a per meeting basis to easily track those who attend meetings and clear up arguments over attendance.
