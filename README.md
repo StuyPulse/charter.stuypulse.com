@@ -44,13 +44,13 @@ The new Elected Council for the next school year will update the charter amendme
 ## Elected Council (EC):
 **President of Engineering (PoE):** The President of Engineering is familiar with every part of the robot, able to explain the part to another team member or a judge, as well as able to repair any part of the robot if it is broken. They are also knowledgeable about the details of the Impact Award submission and other award submissions.
 
-**President of Marketing (PoM):** The President of Marketing holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Impact Award or assign the presentation to someone else deemed competent. The PoM also has adequate knowledge of the other two departments.
+**President of Business (PoM):** The President of Business holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Impact Award or assign the presentation to someone else deemed competent. The PoM also has adequate knowledge of the other two departments.
 
 **President of Software Engineering (PoSE):** The President of Software Engineering primarily manages the development of robot code and all related software. They also manage the design and development of all human interfaces and control systems. The PoSE is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. They work closely with the PoE to effectively manage the development of the control system alongside the hardware. The PoSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes, as well as the marketing team to coordinate events and regional activities, such as seminars. The PoSE must effectively manage the software development team in order to accomplish these responsibilities and must have a similar level of familiarity with the robot as the PoE.
 
 **Vice President of Engineering (VPoE):** The Vice President of Engineering is considered the second-in-command for the Engineering department. They have knowledge of what the Presidents are currently doing and is able to direct the Engineering division in the event of the PoE’s absence. The VPoE also has extensive knowledge of each part of the robot as well as basic knowledge of all awards submissions.
 
-**Vice President of Marketing (VPoM):** The Vice President of Marketing is the second-in-command for the Marketing department. The VPoM should have knowledge of what the President of Marketing is currently doing and should be able to direct the Marketing department in the event of the PoM’s absence. They have extensive knowledge of all award submissions as well as basic knowledge of each part of the robot.
+**Vice President of Business (VPoM):** The Vice President of Business is the second-in-command for the Business department. The VPoM should have knowledge of what the President of Business is currently doing and should be able to direct the Business department in the event of the PoM’s absence. They have extensive knowledge of all award submissions as well as basic knowledge of each part of the robot.
 
 **Vice President of Software Engineering (VPoSE):** The Vice President of Software Engineering is the second-in-command for the Software Engineering department. They have knowledge of what the President of Software Engineering is currently doing and should be able to direct the Software Engineering department in the event of the PoSE’s absence, as well as collaborate with the President of Engineering in managing the overall robot project.
 
@@ -72,11 +72,11 @@ The Director of Strategy is also responsible for the selection, training, and pr
   
 **Assistant Director of Strategy (ADoS):** The Assistant Director of Strategy is responsible for collaborating with the Director of Strategy and the strategy team throughout the season. The Assistant Director of Strategy is to be familiar with all aspects of strategy and be ready to assume the jobs of Director of Strategy if necessary.
 
-### Marketing
+### Business
 
 **Director of Finance (DoF):** The Director of Finance must ensure the stability of the team’s finances, such as the budget of each department in conjunction with the EC and Faculty Advisors. The DoF must also maintain stable relationships with sponsors and contact them on a regular basis.
 
-**Director of Operations (DoO):** The Director of Operations will handle the day­to­day operations of the marketing division and the whole team. The DoO is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. The Director of Operations is also responsible for award submissions, as well as a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
+**Director of Operations (DoO):** The Director of Operations will handle the day­to­day operations of the business division and the whole team. The DoO is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. The Director of Operations is also responsible for award submissions, as well as a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
 
 **Director of Public Relations (DoPR):** The Director of Public Relations will plan for outreach events and direct all outreach initiatives, such as Stuy Splash and public demonstrations. At the same time, the DoPR is responsible for creating a strong team media presence using blogs, photographs, videos, social media, and other media. 
 
@@ -177,7 +177,7 @@ Any member of the EC/AC, Impact Team, or drive team may be impeached for reasons
 
 Impeachment proceedings for EC/AC are initiated through warnings given by a two-thirds majority of the EC/AC. The officer in question may defend himself/herself, and a two-thirds majority of the entire team will uphold the impeachment. 
 
-Any officers, unless suspended by the faculty advisor(s), may be reappointed at any time by a two-­thirds majority vote of the Elected Members. In the event of an impeachment or in the event that a member of the EC/AC resigns, the position will be filled by a two-thirds majority vote of the remaining EC/AC. When the position of President of Engineering, President of Marketing, or President of Software Engineering is vacant, his/her Vice President may temporarily fill the position as President until the EC/AC has elected another member of the team to serve as President.
+Any officers, unless suspended by the faculty advisor(s), may be reappointed at any time by a two-­thirds majority vote of the Elected Members. In the event of an impeachment or in the event that a member of the EC/AC resigns, the position will be filled by a two-thirds majority vote of the remaining EC/AC. When the position of President of Engineering, President of Business, or President of Software Engineering is vacant, his/her Vice President may temporarily fill the position as President until the EC/AC has elected another member of the team to serve as President.
 
 Impeachment proceedings for the Impact and drive team are initiated through warnings given by those responsible for each team. 
 
