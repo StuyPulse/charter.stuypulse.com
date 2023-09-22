@@ -156,7 +156,10 @@ A discussion will be held for each position following the presentations of those
 
 ### Voting:
 
-When the presentations are completed, all candidates will be asked to leave the room and voting will commence. Voting for a department's candidate will only be done by the department if that department has 9 or more members. Otherwise, the entire team will vote on that candidate. The current EC may vote for all department elections. Awards, Outreach, and Fundraising may vote for Business elections. I/T may vote for both SE and Business elections. The moderator may vote. The following rules will be followed for voting:
+When the presentations are completed, all candidates will be asked to leave the room and voting will commence. Voting for a department's candidate will only be done by the department if that department has 9 or more members. Otherwise, the entire team will vote on that candidate. The current EC may vote for all department elections. Awards, Outreach, and Fundraising may vote for Business elections. I/T may vote for both SE and Business elections. The moderator may vote.
+
+Students will rank their nominees in order of preference from 1 to however many they wish to put. The votes are sorted based on who they ranked first. If there is a clear majority, that individual wins the first nomination. If there is not a clear majority, the nominee with the fewest votes will be removed, and their votes will then be sorted based on the second choice listed on the ballot. This will keep occurring until one nominee has a clear majority.
+After the first nominee is selected, the process is repeated with the same ballots to determine the second nominee.
 
 - Ballots will be counted by the Moderator and one official mentor. Vote totals will not be made public to the team.
 - Submitted ballots may only be viewed by the Moderator and the mentors. If another member of the team has intentionally viewed a ballot, that member will lose their right to vote for the remainder of the elections.
@@ -287,6 +290,6 @@ The EC may call charter or team meetings throughout the year as needed
 
 Attendance is required to be taken on a per meeting basis to easily track those who attend meetings and clear up arguments over attendance.
 
-Reflections are required to attend offseason events. They are due the day trip forms are due for the first offseason event. If a reflection is not submitted by the deadline, a five paragraph supplementary essay detailing why the reflection is late needs to accompany the late reflection and be submitted to the EC or mentors.
+Reflections are required to attend offseason events. They are due the day trip forms are due for the first offseason event. If a reflection is not submitted by the deadline, a 250-word supplementary essay detailing why the reflection is late needs to accompany the late reflection and be submitted to the EC or mentors.
 
-There will be an annual volunteer requirement. Team members, regardless of position, must complete at least volunteering event (TBD). To prove they volunteered, they are required to take a picture of themselves at the volunteering venue and submit it to the Director of Public Relations. Members who fail to meet these requirements will be barred from all team trips until this requirement has been fulfilled. Volunteer hours are reset after the season (championships) is over.
+There will be an annual volunteer requirement. Team members, regardless of position, must complete at least one volunteering event. To prove they volunteered, they are required to take a picture of themselves at the volunteering venue and submit it to the Director of Public Relations. Members who fail to meet these requirements will be barred from all team trips until this requirement has been fulfilled. Volunteer hours are reset after the season (championships) is over.
