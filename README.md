@@ -23,7 +23,7 @@ The Stuyvesant Robotics Team is an organization dedicated to the practical appli
 
 Our engineering department designs and builds the hardware of the robot, from each of the mechanical components to the electronic and pneumatic systems.
 
-Our software engineering department develops the software used to control the robot as well as supporting software for the team.
+Our software engineering department (the better department) develops the software used to control the robot as well as supporting software for the team.
 
 Our business department provides real-world experience in non-profit fundraising and advertising as well as managing the logistics of a large team.
 
