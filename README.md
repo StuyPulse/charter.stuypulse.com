@@ -29,6 +29,10 @@ Our business department provides real-world experience in non-profit fundraising
 
 Our strategy team, comprised of members from all three departments, offers strategic assistance regarding robot design, gameplay, and alliance selections.
 
+Our PulseLabs team is responsible for managing and documenting all research and development projects that the team undertakes. Read more about PulseLabs [here](#pulselabs-lead). 
+
+- *The validity period of PulseLabs, and related AC roles, will be of one year, and the team must vote to renew PulseLabs, or vote to solidify PulseLab's place within the team for perpetuity, unless removed by amendment, at the following **(2025)** charter amendment meeting.*
+
 Our media team, comprised of members from all three departments, is led by the business department and is in charge of all media related matters (e.g. videos, pictures, etc.).
 
 Our Inspiration Team, comprised of members from all three departments, is led by the business department and is in charge of all matters related to the "Impact Award" (e.g. presentation, essay, speech, outreach ideas, video ideas, etc.).
@@ -66,6 +70,16 @@ It is the responsibility of the EC to create an annual Operations Plan. The Oper
 Directors and assistant directors are responsible for seeing the completion of their respective jobs, but do not necessarily have to be the ones to complete the job. The role of the director and assistant director is to ensure the job is completed, and to organize/delegate the job(s) to members of the team who wish to help in their specific area.
 
 Assistant directors must be appointed after directors. This is to ensure that directors have a say in who their assistants will be.
+
+### PulseLabs <a id="pulselabs-lead"></a>
+
+*The validity period of PulseLabs, and related AC roles, will be of one year, and the team must vote to renew PulseLabs, or vote to solidify PulseLab's place within the team for perpetuity, unless removed by amendment, at the following **(2025)** charter amendment meeting.*
+
+**Director of PulseLabs (DoPL):** The Director of PulseLabs will organize all research and development (R&D) efforts, maintain a system of documentation distribution, ensure documentation produced by PulseLabs members are up to standards outlined by authoritative documents, update said authoritative documents as needed, have a level of understanding of all ongoing and past research projects, manage the PulseLabs budget, maintain a clear line of communication between these efforts and EC to ensure research goes smoothly and subsequent knowledge is communicated and applied, ensure researched knowledge is transferred to the larger team, ensure research efforts are published in a timely manner, and publish an annual report as to the state of PulseLabs, which is to be completed by the end of the school year (see [exception in the PulseLabs section](#pulselabs-description) for the 2025 season).
+
+During the off-season, the DoPLs will be primarily responsible for organizing, supporting, and understanding these research efforts. They will also be responsible for ensuring that the research efforts are documented and published in a timely manner. The DoPL will also be responsible for ensuring that the research efforts are communicated to the rest of the team.
+
+During the build season, the DoPLs will be responsible for ensuring that the research efforts are communicated to the rest of the team, and that the knowledge gained from such research efforts are applied to the robot. The DoPLs will also be responsible for ensuring that the robot's design and features, especially those derived from research efforts, are documented, updated, and published as necessary.
 
 ### Strategy
 
@@ -281,6 +295,43 @@ In the event of a tie, a runoff vote will be held with those nominees.
 Another round of voting will be held with the same nominees, excluding the already selected individual. The nomination process will follow the same procedure as it does for the first selection.
 
 After selecting two students for the award, the moderators shall inform the head coaches about who was selected. After their selection is approved, the nominees may be informed.
+
+## PulseLabs:  <a id="pulselabs-description"></a>
+
+*The validity period of PulseLabs, and related AC roles, will be of one year, and the team must vote to renew PulseLabs, or vote to solidify PulseLab's place within the team for perpetuity, unless removed by amendment, at the following **(2025)** charter amendment meeting.*
+
+*For the **(2025)** FRC season, the PulseLabs annual report must be completed at least approximately 1 week, or with enough time such that the performance and efficacy of PulseLabs may be reviewed by the team, prior to the annual Charter Amendment Meeting.*
+
+PulseLabs is a centralized team within StuyPulse that is responsible for running and documenting all research and development projects within the team. PulseLabs is neither a Department nor a Subdepartment of either the Mechanical Engineering or Software Engineering Departments. Members of PulseLabs will be made up of members of the team from the Mechanical Engineering and Software Engineering Departments, but **members must not derelict their duties in their respective departments**. 
+
+Research in new technologies and techniques will become a key part of the team's success as we meld novel technologies with the tried and true methods of the past. PulseLabs will be responsible for furthering the team's knowledge to gain a more competitive edge through advanced technology in FRC. As such, PulseLabs will primarily be researching, developing, and testing new technologies in the off-season, and applying these technologies to the robot during the build season.
+
+### Leadership:
+
+PulseLabs will be led by 2 Directors of PulseLabs, and their responsibilities are detailed [here](#pulselabs-lead) under the Appointed Council section. DoPLs should be chosen on the basis of interest in furthering the team's knowledge and performance through the application of novel technologies or techniques. It is *recommended*, but not a requirement, that one DoPL is from the Mechanical Engineering Department and the other is from the Software Engineering Department. 
+
+### Responsibilties:
+
+- Identify novel approaches of using technology to solving problems relating to both the Mechanical Engineering and Software Engineering portions of the robots produced by the team.
+- Participate and lead research efforts towards these approaches and the subsequent developments or applications of these approaches in prototypes or final robot designs.
+- Ensuring EC members of their respective Departments are informed of these research efforts, the results of these efforts, and the applications of these efforts.
+- Ensure the transfer of knowledge from research efforts to the rest of the team.
+- Maintain a detailed and open record of all research and development projects undertaken with the support of the team.
+- Documenting the progress and results of any research effort.
+- Sustain and utilize a comprehensive and consistent system in publishing, for both internal and external usage, for research efforts, their results, and their applications.
+- Publish an annual report as to the state of PulseLabs, including ongoing and completed research, by the end of the school year.
+
+### Budgeting:
+
+Research funding is the budget put towards the purchase and use of materials necessary to the R&D process, such as prototyping. PulseLabs will have no official budget, but instead draw their budget from their respective departments on the basis of the nature of the research and development project being undertaken. As such, funding for any R&D project under PulseLabs must be approved by a member of the EC from which the funding is appropriated. Research funding may not be transferred to third-parties for the purposes of work-for-hire to further research efforts.
+
+### Documentation:
+
+All research and development projects undertaken by PulseLabs must be documented in a manner that is accessible to all members of the team. This documentation will also be made available to the public, unless designated otherwise by the DoPL and/or EC, using means such as but not limited to through the team's website and Chief Delphi. A system must be in place to ensure that all documentation produced by PulseLabs are distributed, stored, and archived in a manner that is accessible by any party at any point in the future.
+
+The format and types of documentation will be standardized according to a series of authoritative documents, and all documentation must follow the guidelines set forth in these documents. These authoritative documents may undergo revision by the DoPL and the EC, but must be approved by the EC before being put into effect. All documents must be reviewed and approved by the DoPL before being published to ensure for the quality of the document. The DoPL may request for changes to be made to the document before approval.
+
+All research efforts must have documentation attached to them, maintained throughout the research process, updated as necessary. This documentation may be in the form of a running document or a series of Technical Memorandums released at key points in a research effort. Documentation includes maintaining an accurate and complete list of references to all sources used in the research effort, including but not limited to books, articles, and websites. A Technical Article must be released at the conclusion of any research effort, regardless of the success of the effort, which should summarize findings, methodology, conclusions, further research, applications, etc. For consistency, all research documents must be written in LaTeX and template documents will be provided and used by members of PulseLabs.
 
 ## Additional Amendments:
 
