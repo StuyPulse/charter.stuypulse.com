@@ -29,7 +29,7 @@ Our business department provides real-world experience in non-profit fundraising
 
 Our strategy team, comprised of members from all three departments, offers strategic assistance regarding robot design, gameplay, and alliance selections.
 
-Our PulseLabs team is responsible for managing and documenting all research and development projects that the team undertakes. Read more about PulseLabs [here](#pulselabs-lead). 
+Our PulseLabs team is responsible for managing and documenting all research and development projects that the team undertakes. Read more about PulseLabs [here](#pulselabs-description). 
 
 - *The validity period of PulseLabs, and related AC roles, will be of one year, and the team must vote to renew PulseLabs, or vote to solidify PulseLab's place within the team for perpetuity, unless removed by amendment, at the following **(2025)** charter amendment meeting.*
 
@@ -71,7 +71,7 @@ Directors and assistant directors are responsible for seeing the completion of t
 
 Assistant directors must be appointed after directors. This is to ensure that directors have a say in who their assistants will be.
 
-### PulseLabs <a id="pulselabs-lead"></a>
+### PulseLabs <a id="pulselabs-ac"></a>
 
 *The validity period of PulseLabs, and related AC roles, will be of one year, and the team must vote to renew PulseLabs, or vote to solidify PulseLab's place within the team for perpetuity, unless removed by amendment, at the following **(2025)** charter amendment meeting.*
 
@@ -296,7 +296,7 @@ Another round of voting will be held with the same nominees, excluding the alrea
 
 After selecting two students for the award, the moderators shall inform the head coaches about who was selected. After their selection is approved, the nominees may be informed.
 
-## PulseLabs:  <a id="pulselabs-description"></a>
+## PulseLabs: <a id="pulselabs-description"></a>
 
 *The validity period of PulseLabs, and related AC roles, will be of one year, and the team must vote to renew PulseLabs, or vote to solidify PulseLab's place within the team for perpetuity, unless removed by amendment, at the following **(2025)** charter amendment meeting.*
 
@@ -310,15 +310,15 @@ Research in new technologies and techniques will become a key part of the team's
 
 PulseLabs will be led by 2 Directors of PulseLabs, and their responsibilities are detailed [here](#pulselabs-lead) under the Appointed Council section. DoPLs should be chosen on the basis of interest in furthering the team's knowledge and performance through the application of novel technologies or techniques. It is *recommended*, but not a requirement, that one DoPL is from the Mechanical Engineering Department and the other is from the Software Engineering Department. 
 
-### Responsibilties:
+### Responsibilities:
 
-- Identify novel approaches of using technology to solving problems relating to both the Mechanical Engineering and Software Engineering portions of the robots produced by the team.
+- Identify novel approaches of using technology to solve problems relating to both the Mechanical Engineering and Software Engineering portions of the robot(s) produced by the team.
 - Participate and lead research efforts towards these approaches and the subsequent developments or applications of these approaches in prototypes or final robot designs.
 - Ensuring EC members of their respective Departments are informed of these research efforts, the results of these efforts, and the applications of these efforts.
 - Ensure the transfer of knowledge from research efforts to the rest of the team.
 - Maintain a detailed and open record of all research and development projects undertaken with the support of the team.
 - Documenting the progress and results of any research effort.
-- Sustain and utilize a comprehensive and consistent system in publishing, for both internal and external usage, for research efforts, their results, and their applications.
+- Sustain and utilize a comprehensive and consistent system in publishing, for both internal and external usage, of research efforts, results, and applications.
 - Publish an annual report as to the state of PulseLabs, including ongoing and completed research, by the end of the school year.
 
 ### Budgeting:
