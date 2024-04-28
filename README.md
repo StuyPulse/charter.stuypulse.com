@@ -302,19 +302,19 @@ After selecting two students for the award, the moderators shall inform the head
 
 *For the **(2025)** FRC season, the PulseLabs annual report must be completed at least approximately 1 week, or with enough time such that the performance and efficacy of PulseLabs may be reviewed by the team, prior to the annual Charter Amendment Meeting.*
 
-PulseLabs is a centralized team within StuyPulse that is responsible for running and documenting all research and development projects within the team. PulseLabs is neither a Department nor a Subdepartment of either the Mechanical Engineering or Software Engineering Departments. Members of PulseLabs will be made up of members of the team from the Mechanical Engineering and Software Engineering Departments, but **members must not derelict their duties in their respective departments**. 
+PulseLabs is a centralized team within StuyPulse that is responsible for running and documenting all research and development projects within the team. PulseLabs is neither a department nor a subdepartment of either the Mechanical Engineering or Software Engineering departments. Members of PulseLabs will be made up of members of the team from the Mechanical Engineering and Software Engineering departments, but **members must not derelict their duties in their respective departments**. 
 
 Research in new technologies and techniques will become a key part of the team's success as we meld novel technologies with the tried and true methods of the past. PulseLabs will be responsible for furthering the team's knowledge to gain a more competitive edge through advanced technology in FRC. As such, PulseLabs will primarily be researching, developing, and testing new technologies in the off-season, and applying these technologies to the robot during the build season.
 
 ### Leadership:
 
-PulseLabs will be led by 2 Directors of PulseLabs, and their responsibilities are detailed [here](#pulselabs-lead) under the Appointed Council section. DoPLs should be chosen on the basis of interest in furthering the team's knowledge and performance through the application of novel technologies or techniques. It is *recommended*, but not a requirement, that one DoPL is from the Mechanical Engineering Department and the other is from the Software Engineering Department. 
+PulseLabs will be led by 2 Directors of PulseLabs, and their responsibilities are detailed [here](#pulselabs-lead) under the Appointed Council section. DoPLs should be chosen on the basis of interest in furthering the team's knowledge and performance through the application of novel technologies or techniques. It is *recommended*, but not a requirement, that one DoPL is from the Mechanical Engineering department and the other is from the Software Engineering department. 
 
 ### Responsibilities:
 
 - Identify novel approaches of using technology to solve problems relating to both the Mechanical Engineering and Software Engineering portions of the robot(s) produced by the team.
 - Participate and lead research efforts towards these approaches and the subsequent developments or applications of these approaches in prototypes or final robot designs.
-- Ensuring EC members of their respective Departments are informed of these research efforts, the results of these efforts, and the applications of these efforts.
+- Ensuring EC members of their respective departments are informed of these research efforts, the results of these efforts, and the applications of these efforts.
 - Ensure the transfer of knowledge from research efforts to the rest of the team.
 - Maintain a detailed and open record of all research and development projects undertaken with the support of the team.
 - Documenting the progress and results of any research effort.
@@ -323,7 +323,7 @@ PulseLabs will be led by 2 Directors of PulseLabs, and their responsibilities ar
 
 ### Budgeting:
 
-Research funding is the budget put towards the purchase and use of materials necessary to the R&D process, such as prototyping. PulseLabs will have no official budget, but instead draw their budget from their respective departments on the basis of the nature of the research and development project being undertaken. As such, funding for any R&D project under PulseLabs must be approved by a member of the EC from which the funding is appropriated. Research funding may not be transferred to third-parties for the purposes of work-for-hire to further research efforts.
+Research funding is the budget put towards the purchase and use of materials necessary to the R&D process, such as prototyping. PulseLabs will have no official budget, but instead draw its budget from their respective departments on the individual basis of the nature of the R&D project being undertaken. As such, funding for any R&D project under PulseLabs must be approved by a member of the EC of the department from which the funding is appropriated. Research funding may not be transferred to third-parties for the purposes of work-for-hire to further research efforts.
 
 ### Documentation:
 
