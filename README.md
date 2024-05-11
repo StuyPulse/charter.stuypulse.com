@@ -125,7 +125,7 @@ Elections will take place after the charter meeting each year. This is done in o
 
 ### Rules for Elections:
 
-- Elections will begin with a call of attendance, after which nobody may leave the room without permission and without filing an absentee ballot, assuming that member is eligible to vote.
+- Elections will begin with a call of attendance, after which nobody may leave the meeting without permission and without filing an absentee ballot, assuming that member is eligible to vote.
 - All members at or above a certain attendance percentage who have paid their team dues and have passed the safety test may attend and vote. This percentage will be decided by the EC and faculty advisors. Prior to the elections, a list of eligible members must be made available.
 - An absentee ballot is an official ballot on which the person leaving writes down the name of one person for every position for which they wish to cast a vote. The ballot will be given to the person in charge of elections. If the absentee does not choose a candidate for a position, they are abstaining from the vote for that position.
 - One team member, chosen by the Elected Council, will preside over elections as Moderator. They must uphold the rules, maintain order, and mediate any disputes that arise.
@@ -152,11 +152,11 @@ Each candidate is given up to four minutes to present his or her qualifications 
 
 ### Discussion
 
-A discussion will be held for each position following the presentations of those running for the position. The candidates are to be outside the room during the discussion period.
+A discussion will be held for each position following the presentations of those running for the position. The candidates are to be outside the main meeting during the discussion period.
 
 ### Voting:
 
-When the presentations are completed, all candidates will be asked to leave the room and voting will commence. Voting for a department's candidate will only be done by the department if that department has 9 or more members. Otherwise, the entire team will vote on that candidate. The current EC may vote for all department elections. Awards, Outreach, and Fundraising may vote for Business elections. I/T may vote for both SE and Business elections. The moderator may vote.
+When the presentations are completed, all candidates will be asked to leave the main meeting and voting will commence. Voting for a department's candidate will only be done by the department if that department has 9 or more members. Otherwise, the entire team will vote on that candidate. The current EC may vote for all department elections. Awards, Outreach, and Fundraising may vote for Business elections. I/T may vote for both SE and Business elections. The moderator may vote.
 
 Students will rank their nominees in order of preference from 1 to however many they wish to put. The votes are sorted based on who they ranked first. If there is a clear majority, that individual wins the first nomination. If there is not a clear majority, the nominee with the fewest votes will be removed, and their votes will then be sorted based on the second choice listed on the ballot. This will keep occurring until one nominee has a clear majority.
 After the first nominee is selected, the process is repeated with the same ballots to determine the second nominee.
