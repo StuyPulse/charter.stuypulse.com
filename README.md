@@ -158,20 +158,18 @@ A discussion will be held for each position following the presentations of those
 
 When the presentations are completed, all candidates will be asked to leave the main meeting and voting will commence. Voting for a department's candidate will only be done by the department if that department has 9 or more members. Otherwise, the entire team will vote on that candidate. The current EC may vote for all department elections. Awards, Outreach, and Fundraising may vote for Business elections. I/T may vote for both SE and Business elections. The moderator may vote.
 
-Students will rank their nominees in order of preference from 1 to however many they wish to put. The votes are sorted based on who they ranked first. If there is a clear majority, that individual wins the first nomination. If there is not a clear majority, the nominee with the fewest votes will be removed, and their votes will then be sorted based on the second choice listed on the ballot. This will keep occurring until one nominee has a clear majority.
-After the first nominee is selected, the process is repeated with the same ballots to determine the second nominee.
 
 - Ballots will be counted by the Moderator and one official mentor. Vote totals will not be made public to the team.
 - Submitted ballots may only be viewed by the Moderator and the mentors. If another member of the team has intentionally viewed a ballot, that member will lose their right to vote for the remainder of the elections.
-- If no member is nominated for a position, the position will become appointed.
-- A “NONE” candidate is included in every election, including runoffs. If NONE wins the election, the position will become appointed.
-- In the event of a tie after runoffs, the position will become appointed. Only the candidates who tied the vote may be appointed to the position, unless they are elected or appointed to another position first.
+- Students will rank their nominees in order of preference from 1 to however many they wish to put.
+- The votes are sorted based on who they ranked first.
+- If there is a clear majority, that individual wins the first nomination.
+- If there is not a clear majority, the nominee with the fewest votes will be removed, and their votes will then be sorted based on the second choice listed on the ballot.
+- This will keep occurring until one nominee has a clear majority.
+- After the first nominee is selected, the process is repeated with the same ballots to determine the second nominee.
+- A “NONE” candidate is included in every election If NONE wins the election, the position will become appointed.
 - A member may choose to abstain from voting during the election for any given position.
 - If a candidate is running unopposed, then the voting process will be expedited with a limited question and answer period.
-- If more than two candidates are running for a given position, the following will occur:
-- Each member of the department or team will be given one vote to be cast towards a candidate. If a given candidate gets a majority vote, they will be immediately be appointed without a runoff. If no candidate gets a majority vote, the top two candidates will go into a runoff.
-- If there is no majority vote or if only two members are nominated for a given position, the election automatically goes to a runoff.
-- Every member of the department or team will vote for one of the two candidates and the candidate with the highest number of votes wins. If the case that a two-thirds majority of the members choose not to vote, the position will become appointed.
 - In the case that no member is elected to any position, all present members of the current EC/AC will appoint the Presidents to represent the new EC/AC and follow the procedures of appointment.
 
 ## Appointment:
