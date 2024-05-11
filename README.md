@@ -21,7 +21,7 @@ This is a student led club designed to promote interest in the study of robotics
 
 The Stuyvesant Robotics Team is an organization dedicated to the practical application of science, technology, and business in the field of robotics. We undergo an intensive, but enjoyable, six-week build season during which we build a robot for the FIRST Robotics Competition (FRC).
 
-Our engineering department designs and builds the hardware of the robot, from each of the mechanical components to the electronic and pneumatic systems.
+Our mechanical engineering department designs and builds the hardware of the robot, from each of the mechanical components to the electronic and pneumatic systems.
 
 Our software engineering department develops the software used to control the robot as well as supporting software for the team.
 
@@ -33,7 +33,7 @@ Our media team, comprised of members from all three departments, is led by the b
 
 Our Inspiration Team, comprised of members from all three departments, is led by the business department and is in charge of all matters related to the "Impact Award" (e.g. presentation, essay, speech, outreach ideas, video ideas, etc.).
 
-We require no prior experience at all in engineering, software engineering, business, strategy, media, or presenting and will teach the skills members need to be able to participate in FRC.
+We require no prior experience at all in mechanical engineering, software engineering, business, strategy, media, or presenting and will teach the skills members need to be able to participate in FRC.
 
 Membership on StuyPulse is unrestricted. The club does not restrict membership on the basis of race, gender, ethnicity, commitment to other clubs, grade, or any other such factors. It is understood that those students who enjoy the club will attend and those who do not attend will not be considered members of the club.
 
@@ -47,17 +47,17 @@ The new Elected Council for the next school year will update the charter amendme
 
 ## Elected Council (EC):
 
-**President of Engineering (PoE):** The President of Engineering manages and oversees the construction and maintenance of the robot. They delegate the construction of the mechanisms of the robot. They are familiar with every mechanisms of the robot and able to explain the mechanisms to another team member or a judge. The PoE is also responsible for making administrative decisions for newbie education. Throughout the build season, they are a major contributor to the CAD and oversee the pits during competitions. They also communicate and work closely with the PoSE, Director of Electronics, and Director of Pneumatics to maintain the robot's systems.
+**President of Mechanical Engineering (PoME):** The President of Mechanical Engineering manages and oversees the construction and maintenance of the robot. They delegate the construction of the mechanisms of the robot. They are familiar with every mechanisms of the robot and able to explain the mechanisms to another team member or a judge. The PoE is also responsible for making administrative decisions for newbie education. Throughout the build season, they are a major contributor to the CAD and oversee the pits during competitions. They also communicate and work closely with the PoSE, Director of Electronics, and Director of Pneumatics to maintain the robot's systems.
 
 **President of Business (PoB):** The President of Business holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Impact Award or assign the presentation to someone else deemed competent. The PoB also has adequate knowledge of the other two departments.
 
-**President of Software Engineering (PoSE):** The President of Software Engineering balances the development and delegation for newbie education and member training, in-season robot coding / testing, team code libraries, and research projects. The President of Software Engineering should also uphold commendable coding practices and clean Git practices for team repositories (e.g. commented code, PR’s often, test before merge). The President is responsible for working with the Director of Newbie Relations to handle newbie training and engagement year-round. The PoSE also collaborates with the Strategy team to develop effective solutions for both the teleoperated and autonomous modes. During build season, the PoSE is responsible for scheduling code reviews to ensure team members are informed about the state of the robot code. Additionally, the President should bridge the gap with the Engineering department during this time to build an interdepartmental understanding of prototypes, finalized mechanisms, and the robot as a whole. Furthermore, the President of Software Engineering, along with the President of Engineering, should collaborate on testing time with the robot with the goal of making the robot as competition-ready as possible.
+**President of Software Engineering (PoSE):** The President of Software Engineering balances the development and delegation for newbie education and member training, in-season robot coding / testing, team code libraries, and research projects. The President of Software Engineering should also uphold commendable coding practices and clean Git practices for team repositories (e.g. commented code, PR’s often, test before merge). The President is responsible for working with the Director of Newbie Relations to handle newbie training and engagement year-round. The PoSE also collaborates with the Strategy team to develop effective solutions for both the teleoperated and autonomous modes. During build season, the PoSE is responsible for scheduling code reviews to ensure team members are informed about the state of the robot code. Additionally, the President should bridge the gap with the Mechanical Engineering department during this time to build an interdepartmental understanding of prototypes, finalized mechanisms, and the robot as a whole. Furthermore, the President of Software Engineering, along with the President of Mechanical Engineering, should collaborate on testing time with the robot with the goal of making the robot as competition-ready as possible.
 
-**Vice President of Engineering (VPoE):** The Vice President of Engineering is considered the second-in-command for the Engineering department. They have knowledge of what the Presidents are currently doing and is able to direct the Engineering division in the event of the PoE’s absence. The VPoE also has extensive knowledge of each part of the robot as well as basic knowledge of all awards submissions.
+**Vice President of Mechanical Engineering (VPoME):** The Vice President of Mechanical Engineering is considered the second-in-command for the Mechanical Engineering department. They have knowledge of what the Presidents are currently doing and is able to direct the Mechanical Engineering division in the event of the PoME’s absence. The VPoME also has extensive knowledge of each part of the robot as well as basic knowledge of all awards submissions.
 
 **Vice President of Business (VPoB):** The Vice President of Business is the second-in-command for the Business department. The VPoB should have knowledge of what the President of Business is currently doing and should be able to direct the Business department in the event of the PoB’s absence. They have extensive knowledge of all award submissions as well as basic knowledge of each part of the robot.
 
-**Vice President of Software Engineering (VPoSE):** The Vice President of Software Engineering is the second-in-command for the Software Engineering department. They have knowledge of what the President of Software Engineering is currently doing and should be able to direct the Software Engineering department in the event of the PoSE’s absence, as well as collaborate with the President of Engineering in managing the overall robot project.
+**Vice President of Software Engineering (VPoSE):** The Vice President of Software Engineering is the second-in-command for the Software Engineering department. They have knowledge of what the President of Software Engineering is currently doing and should be able to direct the Software Engineering department in the event of the PoSE’s absence, as well as collaborate with the President of Mechanical Engineering in managing the overall robot project.
 
 It is the responsibility of the EC to create an annual Operations Plan. The Operations Plan includes the administrative process of the team to improve quality and increase efficiency in operation. It may include preliminary budgets and operational strategies for each department and a timeline for the pre­season, build season, and competition season.
 
@@ -88,7 +88,7 @@ The Director of Strategy is also responsible for the selection, training, and pr
 
 **Director of Media (DoM):** The Director of Media is responsible for the creation of all visual and media content for our social media platforms. They are also responsible for taking pictures and videos at all team events. They are to work alongside the Director of Public Relations to create necessary content. The DoM is also responsible for leading and educating the members of the media team, composed of members from all three departments and in charge of all media related matters (e.g. videos, pictures, etc.).
 
-### Engineering
+### Mechanical Engineering
 
 **Director of Electronics (DoE):** The Director of Electronics sets up and manages the electronic systems on the robot to FIRST regulations. They cooperate with both engineers and software engineers to ensure that the electronic systems are organised and able to be modified if needed. The DoE is also responsible for the education of other members in the electronics subdepartment.
 
@@ -197,7 +197,7 @@ Any member of the EC/AC, Impact Team, or drive team may be impeached for reasons
 
 Impeachment proceedings for EC/AC are initiated through warnings given by a two-thirds majority of the EC/AC. The officer in question may defend himself/herself, and a two-thirds majority of the entire team will uphold the impeachment.
 
-Any officers, unless suspended by the faculty advisor(s), may be reappointed at any time by a two-­thirds majority vote of the Elected Members. In the event of an impeachment or in the event that a member of the EC/AC resigns, the position will be filled by a two-thirds majority vote of the remaining EC/AC. When the position of President of Engineering, President of Business, or President of Software Engineering is vacant, his/her Vice President may temporarily fill the position as President until the EC/AC has elected another member of the team to serve as President.
+Any officers, unless suspended by the faculty advisor(s), may be reappointed at any time by a two-­thirds majority vote of the Elected Members. In the event of an impeachment or in the event that a member of the EC/AC resigns, the position will be filled by a two-thirds majority vote of the remaining EC/AC. When the position of President of Mechanical Engineering, President of Business, or President of Software Engineering is vacant, his/her Vice President may temporarily fill the position as President until the EC/AC has elected another member of the team to serve as President.
 
 Impeachment proceedings for the Impact and drive team are initiated through warnings given by those responsible for each team.
 
