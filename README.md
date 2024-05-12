@@ -4,20 +4,21 @@
 
 - [Mission/Purpose](#missionpurpose)
 - [Description](#description)
-- [Charter Amendments](#charter-amendments)
-- [Elected Council (EC)](#elected-council-ec)
-- [Appointed Council (AC)](#appointed-council-ac)
+- [Charter Amendments](#amendments)
+- [Elected Council (EC)](#ec)
+- [Appointed Council (AC)](#ac)
 - [Elections](#elections)
 - [Appointment](#appointment)
 - [Impeachment](#impeachment)
-- [Award Nominations](#award-nominations)
-- [Additional Amendments](#additional-amendments)
+- [Awards](#awards)
+- [PulseLabs](#pulselabs-description)
+- [Additional Amendments](#additional)
 
-## Mission/Purpose:
+## Mission/Purpose: <a id="missionpurpose"></a>
 
 This is a student led club designed to promote interest in the study of robotics and STEM through the teamwork of students, parents, mentors, and sponsors. We increase robotics and STEM awareness in our community and encourage education in engineering, computer science, web design, 3D animation, business, fundraising, and marketing. The club participates in robotics competitions, including ones organized by FIRST, an international robotics organization.
 
-## Description:
+## Description: <a id="description"></a>
 
 The Stuyvesant Robotics Team is an organization dedicated to the practical application of science, technology, and business in the field of robotics. We undergo an intensive, but enjoyable, six-week build season during which we build a robot for the FIRST Robotics Competition (FRC).
 
@@ -41,7 +42,7 @@ We require no prior experience at all in mechanical engineering, software engine
 
 Membership on StuyPulse is unrestricted. The club does not restrict membership on the basis of race, gender, ethnicity, commitment to other clubs, grade, or any other such factors. It is understood that those students who enjoy the club will attend and those who do not attend will not be considered members of the club.
 
-## Charter Amendments:
+## Charter Amendments: <a id="amendments"></a>
 
 The amendment process will begin sometime after the last official competition of the school year. It is an open meeting, with the only requirement being that there must be at least two­-thirds of the Elected and Appointed Council present. All members who have paid their team dues, passed the safety test, and met a specific percentage of attendance may attend and vote. This percentage will be decided by the EC and faculty advisors. In the days leading up to the meeting, a list of eligible members shall be made public. Members who would like to propose charter amendments may submit proposals to the team in order to start discussion. Amendments not proposed prior to the meeting may be discussed at the end of the meeting if there is extra time.
 
@@ -49,7 +50,7 @@ The presidents of the team will preside over the charter meeting. They will deci
 The Moderator(s) of the charter meeting shall appoint a minutes taker. The minutes will be made publicly available to all members of the team, present at the charter meeting or otherwise.
 The new Elected Council for the next school year will update the charter amendments in a timely manner and before the next charter meeting.
 
-## Elected Council (EC):
+## Elected Council (EC): <a id="ec"></a>
 
 **President of Mechanical Engineering (PoME):** The President of Mechanical Engineering manages and oversees the construction and maintenance of the robot. They delegate the construction of the mechanisms of the robot. They are familiar with every mechanisms of the robot and able to explain the mechanisms to another team member or a judge. The PoE is also responsible for making administrative decisions for newbie education. Throughout the build season, they are a major contributor to the CAD and oversee the pits during competitions. They also communicate and work closely with the PoSE, Director of Electronics, and Director of Pneumatics to maintain the robot's systems.
 
@@ -65,7 +66,7 @@ The new Elected Council for the next school year will update the charter amendme
 
 It is the responsibility of the EC to create an annual Operations Plan. The Operations Plan includes the administrative process of the team to improve quality and increase efficiency in operation. It may include preliminary budgets and operational strategies for each department and a timeline for the pre­season, build season, and competition season. EC members are required to attend all competitions/regionals during the season, unless extenuating circumstances (health, family emergencies, etc.) which must be explained to Mr. Blay ASAP. 
 
-## Appointed Council (AC):
+## Appointed Council (AC): <a id="ac"></a>
 
 Directors and assistant directors are responsible for seeing the completion of their respective jobs, but do not necessarily have to be the ones to complete the job. The role of the director and assistant director is to ensure the job is completed, and to organize/delegate the job(s) to members of the team who wish to help in their specific area.
 
@@ -135,7 +136,7 @@ The Director of Strategy is also responsible for the selection, training, and pr
 **Assistant Director of I/T (SE + Business) (ADoIT):** The Assistant Director of I/T should be familiar with the tools the I/T sub-department uses. The Assistant Director of I/T
 will be able to assume responsbility of Director of I/T whenever needed.
 
-## Elections:
+## Elections: <a id="elections"></a>
 
 Elections will take place after the charter meeting each year. This is done in order to give the newly elected officials a chance to become familiar with the position and with the handling of the team. After members have been elected to their positions, they will appoint members to the AC. There is no term limit for any position, but candidates must run for election every year, whether or not there is any opposition. A member of the team who will no longer be a Stuyvesant student the following year or who is not eligible to vote may not run for any elected position.
 
@@ -188,7 +189,7 @@ When the presentations are completed, all candidates will be asked to leave the 
 - If a candidate is running unopposed, then the voting process will be expedited with a limited question and answer period.
 - In the case that no member is elected to any position, all present members of the current EC/AC will appoint the Presidents to represent the new EC/AC and follow the procedures of appointment.
 
-## Appointment:
+## Appointment: <a id="appointment"></a>
 
 Any appointed position will be decided by a majority vote of the elected officers after the conclusion of the election. The member chosen may decline the appointment, in which case another member must be appointed.
 
@@ -198,7 +199,7 @@ In the event that any position is not filled by the EC/AC for any reason, the po
 
 AC positions may be held by any team member, regardless of the department that the team member is part of.
 
-## Impeachment:
+## Impeachment: <a id="impeachment"></a>
 
 Any member of the EC/AC, Impact Team, or drive team may be impeached for reasons that include but aren’t limited to:
 
@@ -235,7 +236,7 @@ Any Impact or drive team member, unless suspended by the faculty advisor(s), may
 
 Impeachment shall not be used to settle political or personal disputes.
 
-## Awards:
+## Awards: <a id="awards"></a>
 
 ### Impact Award:
 
@@ -306,7 +307,7 @@ PulseLabs is an overseeing body within StuyPulse that is responsible for assisti
 
 ### Leadership:
 
-PulseLabs will be led by 2 Directors of PulseLabs (DoPLs), and their responsibilities are detailed [here](#pulselabs-lead) under the Appointed Council section. DoPLs should be chosen on the basis of interest in helping further the team's knowledge and performance through the application of novel technologies or techniques, along with managing the documentation process. There is no requirement for which department the DoPLs must come from, but they must have a strong understanding of the team's operations and a willingness to learn about new technologies and techniques.
+PulseLabs will be led by 2 Directors of PulseLabs (DoPLs), and their responsibilities are detailed [here](#pulselabs-ac) under the Appointed Council section. DoPLs should be chosen on the basis of interest in helping further the team's knowledge and performance through the application of novel technologies or techniques, along with managing the documentation process. There is no requirement for which department the DoPLs must come from, but they must have a strong understanding of the team's operations and a willingness to learn about new technologies and techniques.
 
 ### Responsibilities:
 
@@ -325,7 +326,7 @@ The format and types of documentation will be standardized according to a series
 
 All research efforts done in the team must have documentation attached to them, maintained throughout the research process, updated as necessary. This documentation may be in the form of a running document or a series of Technical Memorandums released at key points in a research effort. Documentation includes maintaining an accurate and complete list of references to all sources used in the research effort, including but not limited to books, articles, and websites. A Technical Article must be released at the conclusion of any research effort, regardless of the success of the effort, which should summarize findings, methodology, conclusions, further research, applications, etc.
 
-## Additional Amendments:
+## Additional Amendments: <a id="additional"></a>
 
 There will be an attendance requirement, as a percentage, to go on team trips. The exact number will be determined by the EC and faculty advisors.
 
