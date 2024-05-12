@@ -302,7 +302,7 @@ After selecting two students for the award, the moderators shall inform the head
 
 *For the **(2025)** FRC season, the PulseLabs annual report must be completed at least approximately 1 week, or with enough time such that the performance and efficacy of PulseLabs may be reviewed by the team, prior to the annual Charter Amendment Meeting.*
 
-PulseLabs is an overseeing body within StuyPulse that is responsible for assisting EC in organizing and documenting all research and development projects within the team. Research in new technologies and techniques will become a key part of the team's success as we meld novel technologies with the tried and true methods of the past. PulseLabs will be responsible for aiding the team in furthering and archiving the team's knowledge to gain a more competitive edge through advanced technology in FRC. Any effort towards advanced knowledge or technology will be within the purview of PulseLabs and its documentation requirements.
+PulseLabs is an overseeing body within StuyPulse that is responsible for assisting EC in organizing and documenting all research and development projects within the team. Team members are encouraged to participate in efforts to further the team's knowledge within their respective departments, and PulseLabs will be responsible for ensuring that these efforts are documented. PulseLabs will be responsible for aiding the team in furthering and archiving the team's knowledge to gain a more competitive edge through advanced technology in FRC. Any effort towards advanced knowledge or technology will be within the purview of PulseLabs and its documentation requirements. Research in new technologies and techniques will become a key part of the team's success as we meld novel technologies with the tried and true methods of the past. 
 
 ### Leadership:
 
@@ -319,7 +319,7 @@ PulseLabs will be led by 2 Directors of PulseLabs (DoPLs), and their responsibil
 
 ### Documentation:
 
-All research and development projects undertaken by PulseLabs must be documented in a manner that is accessible to all members of the team. This documentation will also be made available to the public, unless designated otherwise by the DoPL and/or EC, using means such as but not limited to through the team's website and Chief Delphi. A system must be in place to ensure that all documentation produced by PulseLabs are distributed, stored, and archived in a manner that is accessible by any party at any point in the future.
+All research and development projects undertaken by the team must be documented in a manner that is accessible to all members of the team. This documentation will also be made available to the public, unless designated otherwise by the DoPL and/or EC, using means such as but not limited to through the team's website and Chief Delphi. A system must be in place to ensure that all documentation produced by PulseLabs are distributed, stored, and archived in a manner that is accessible by any party at any point in the future.
 
 The format and types of documentation will be standardized according to a series of authoritative documents, and all documentation must follow the guidelines set forth in these documents. These authoritative documents may undergo revision by the DoPL and the EC. All documents must be reviewed and approved by the DoPL before being published to ensure for the quality of the document. The DoPL may request for changes to be made to the document before approval. 
 
