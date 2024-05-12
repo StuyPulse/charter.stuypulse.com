@@ -21,7 +21,7 @@ This is a student led club designed to promote interest in the study of robotics
 
 The Stuyvesant Robotics Team is an organization dedicated to the practical application of science, technology, and business in the field of robotics. We undergo an intensive, but enjoyable, six-week build season during which we build a robot for the FIRST Robotics Competition (FRC).
 
-Our engineering department designs and builds the hardware of the robot, from each of the mechanical components to the electronic and pneumatic systems.
+Our mechanical engineering department designs and builds the hardware of the robot, from each of the mechanical components to the electronic and pneumatic systems.
 
 Our software engineering department develops the software used to control the robot as well as supporting software for the team.
 
@@ -33,13 +33,13 @@ Our media team, comprised of members from all three departments, is led by the b
 
 Our Inspiration Team, comprised of members from all three departments, is led by the business department and is in charge of all matters related to the "Impact Award" (e.g. presentation, essay, speech, outreach ideas, video ideas, etc.).
 
-We require no prior experience at all in engineering, software engineering, business, strategy, media, or presenting and will teach the skills members need to be able to participate in FRC.
+We require no prior experience at all in mechanical engineering, software engineering, business, strategy, media, or presenting and will teach the skills members need to be able to participate in FRC.
 
 Membership on StuyPulse is unrestricted. The club does not restrict membership on the basis of race, gender, ethnicity, commitment to other clubs, grade, or any other such factors. It is understood that those students who enjoy the club will attend and those who do not attend will not be considered members of the club.
 
 ## Charter Amendments:
 
-The amendment process will begin sometime after the last competition of the school year. It is an open meeting, with the only requirement being that there must be at least two­-thirds of the Elected and Appointed Council present. All members who have paid their team dues, passed the safety test, written a reflection, and met a specific percentage of attendance may attend and vote. This percentage will be decided by the EC and faculty advisors. In the days leading up to the meeting, a list of eligible members shall be made public. Members who would like to propose charter amendments may submit proposals to the team in order to start discussion. Amendments not proposed prior to the meeting may be discussed at the end of the meeting if there is extra time.
+The amendment process will begin sometime after the last official competition of the school year. It is an open meeting, with the only requirement being that there must be at least two­-thirds of the Elected and Appointed Council present. All members who have paid their team dues, passed the safety test, and met a specific percentage of attendance may attend and vote. This percentage will be decided by the EC and faculty advisors. In the days leading up to the meeting, a list of eligible members shall be made public. Members who would like to propose charter amendments may submit proposals to the team in order to start discussion. Amendments not proposed prior to the meeting may be discussed at the end of the meeting if there is extra time.
 
 The presidents of the team will preside over the charter meeting. They will decide on the order in which to address emailed proposals. Each proposal will be read and must be seconded to move to an initial vote to see where people stand. If the vote is unanimous, there will be no discussion or second vote. If there are conflicting views, members will be given time to discuss their thoughts on the issue. After discussion, the presidents will call for a final vote, where the majority decides the fate of the proposal. If the faculty advisor finds any issue with a part of the charter, there will be another charter meeting to revise the problematic parts.
 The Moderator(s) of the charter meeting shall appoint a minutes taker. The minutes will be made publicly available to all members of the team, present at the charter meeting or otherwise.
@@ -47,19 +47,19 @@ The new Elected Council for the next school year will update the charter amendme
 
 ## Elected Council (EC):
 
-**President of Engineering (PoE):** The President of Engineering manages and oversees the construction and maintenance of the robot. They delegate the construction of the mechanisms of the robot. They are familiar with every mechanisms of the robot and able to explain the mechanisms to another team member or a judge. The PoE is also responsible for making administrative decisions for newbie education. Throughout the build season, they are a major contributor to the CAD and oversee the pits during competitions. They also communicate and work closely with the PoSE, Director of Electronics, and Director of Pneumatics to maintain the robot's systems.
+**President of Mechanical Engineering (PoME):** The President of Mechanical Engineering manages and oversees the construction and maintenance of the robot. They delegate the construction of the mechanisms of the robot. They are familiar with every mechanisms of the robot and able to explain the mechanisms to another team member or a judge. The PoE is also responsible for making administrative decisions for newbie education. Throughout the build season, they are a major contributor to the CAD and oversee the pits during competitions. They also communicate and work closely with the PoSE, Director of Electronics, and Director of Pneumatics to maintain the robot's systems.
 
 **President of Business (PoB):** The President of Business holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Impact Award or assign the presentation to someone else deemed competent. The PoB also has adequate knowledge of the other two departments.
 
-**President of Software Engineering (PoSE):** The President of Software Engineering balances the development and delegation for newbie education and member training, in-season robot coding / testing, team code libraries, and research projects. The President of Software Engineering should also uphold commendable coding practices and clean Git practices for team repositories (e.g. commented code, PR’s often, test before merge). The President is responsible for working with the Director of Newbie Relations to handle newbie training and engagement year-round. The PoSE also collaborates with the Strategy team to develop effective solutions for both the teleoperated and autonomous modes. During build season, the PoSE is responsible for scheduling code reviews to ensure team members are informed about the state of the robot code. Additionally, the President should bridge the gap with the Engineering department during this time to build an interdepartmental understanding of prototypes, finalized mechanisms, and the robot as a whole. Furthermore, the President of Software Engineering, along with the President of Engineering, should collaborate on testing time with the robot with the goal of making the robot as competition-ready as possible.
+**President of Software Engineering (PoSE):** The President of Software Engineering balances the development and delegation for newbie education and member training, in-season robot coding / testing, team code libraries, and research projects. The President of Software Engineering should also uphold commendable coding practices and clean Git practices for team repositories (e.g. commented code, PR’s often, test before merge). The President is responsible for working with the Director of Newbie Relations to handle newbie training and engagement year-round. The PoSE also collaborates with the Strategy team to develop effective solutions for both the teleoperated and autonomous modes. During build season, the PoSE is responsible for scheduling code reviews to ensure team members are informed about the state of the robot code. Additionally, the President should bridge the gap with the Mechanical Engineering department during this time to build an interdepartmental understanding of prototypes, finalized mechanisms, and the robot as a whole. Furthermore, the President of Software Engineering, along with the President of Mechanical Engineering, should collaborate on testing time with the robot with the goal of making the robot as competition-ready as possible.
 
-**Vice President of Engineering (VPoE):** The Vice President of Engineering is considered the second-in-command for the Engineering department. They have knowledge of what the Presidents are currently doing and is able to direct the Engineering division in the event of the PoE’s absence. The VPoE also has extensive knowledge of each part of the robot as well as basic knowledge of all awards submissions.
+**Vice President of Mechanical Engineering (VPoME):** The Vice President of Mechanical Engineering is considered the second-in-command for the Mechanical Engineering department. They have knowledge of what the Presidents are currently doing and is able to direct the Mechanical Engineering division in the event of the PoME’s absence. The VPoME also has extensive knowledge of each part of the robot as well as basic knowledge of all awards submissions.
 
 **Vice President of Business (VPoB):** The Vice President of Business is the second-in-command for the Business department. The VPoB should have knowledge of what the President of Business is currently doing and should be able to direct the Business department in the event of the PoB’s absence. They have extensive knowledge of all award submissions as well as basic knowledge of each part of the robot.
 
-**Vice President of Software Engineering (VPoSE):** The Vice President of Software Engineering is the second-in-command for the Software Engineering department. They have knowledge of what the President of Software Engineering is currently doing and should be able to direct the Software Engineering department in the event of the PoSE’s absence, as well as collaborate with the President of Engineering in managing the overall robot project.
+**Vice President of Software Engineering (VPoSE):** The Vice President of Software Engineering is the second-in-command for the Software Engineering department. They have knowledge of what the President of Software Engineering is currently doing and should be able to direct the Software Engineering department in the event of the PoSE’s absence, as well as collaborate with the President of Mechanical Engineering in managing the overall robot project.
 
-It is the responsibility of the EC to create an annual Operations Plan. The Operations Plan includes the administrative process of the team to improve quality and increase efficiency in operation. It may include preliminary budgets and operational strategies for each department and a timeline for the pre­season, build season, and competition season.
+It is the responsibility of the EC to create an annual Operations Plan. The Operations Plan includes the administrative process of the team to improve quality and increase efficiency in operation. It may include preliminary budgets and operational strategies for each department and a timeline for the pre­season, build season, and competition season. EC members are required to attend all competitions/regionals during the season, unless extenuating circumstances (health, family emergencies, etc.) which must be explained to Mr. Blay ASAP. 
 
 ## Appointed Council (AC):
 
@@ -82,23 +82,25 @@ The Director of Strategy is also responsible for the selection, training, and pr
 
 **Director of Finance (DoF):** The Director of Finance is directly responsible for creating the yearly Financial Plan to indicate the fundraising goal for the year. In addition, the Director of Finance is also responsible for fundraising through applying for grants and contacting current or potentially new sponsors. The Director of Finance must also maintain stable relationships with sponsors and contact them on a regular basis.
 
+**Director of Impact (DoI):** Part of business AC. Leads all Impact efforts including documentation, presentation, and scheduling practices. Presents Impact alongside two other presenters chosen via tryouts. 
+
 **Director of Operations (DoO):** The Director of Operations will handle the day-­to-­day operations of the entire team. The Director of Operations is responsible for all paperwork, trip planning, managing deadlines and other logistics regarding the team. Their responsibilities may include collecting team dues, participant information like IDs, and attendance.
 
 **Director of Public Relations (DoPR):** The Director of Public Relations will plan for outreach events and direct all outreach initiatives, such as Stuy Splash and public demonstrations. At the same time, the DoPR is responsible for creating a strong team media presence using blogs, photographs, videos, social media, and other media.
 
 **Director of Media (DoM):** The Director of Media is responsible for the creation of all visual and media content for our social media platforms. They are also responsible for taking pictures and videos at all team events. They are to work alongside the Director of Public Relations to create necessary content. The DoM is also responsible for leading and educating the members of the media team, composed of members from all three departments and in charge of all media related matters (e.g. videos, pictures, etc.).
 
-### Engineering
+### Mechanical Engineering
 
-**Director of Electronics (DoE):** The Director of Electronics sets up and manages the electronic systems on the robot to FIRST regulations. They cooperate with both engineers and software engineers to ensure that the electronic systems are organised and able to be modified if needed. The DoE is also responsible for the education of other members in the electronics subdepartment.
+**Director of Electronics (DoE):** The Director of Electronics sets up and manages the electronic systems on the robot to FIRST regulations. They cooperate with both engineers and software engineers to ensure that the electronic systems are organised and able to be modified if needed. The DoE is also responsible for the education of other members in the electronics subdepartment. The Director of Electronics is also responsible for the creation and management of the pneumatic system on the robot according to FIRST regulations. The director is responsible for the upkeep and maintenance of all compressors, solenoids, and pistons. 
 
-**Assistant Director of Electronics (ADoE):** The Assistant Director of Electronics is familiar with all aspects of the electronic systems on the robot and be able to assume the jobs of Director of Electronics at any time.
-
-**Director of Pneumatics (DoP):** The Director of Pneumatics is responsible for the creation and management of the pneumatic system on the robot according to FIRST regulations. They cooperate with the electronics subdepartment to organize the pneumatics system alongside the electronics. The director is responsible for the upkeep and maintenance of all compressors, solenoids, and pistons. The DoPn is also responsible for the education of other teams members on the subject of pneumatics.
+**Assistant Director of Electronics (ADoE):** The Assistant Director of Electronics is familiar with all aspects of the electronic systems on the robot and be able to assume the jobs of Director of Electronics at any time. 
 
 **Director of Lab Operations and Safety (DoLOS):** The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. They are responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. The DoLOS is also responsible for ensuring that all necessary safety rules are observed in the lab during build season. The DoLOS will automatically be appointed Safety Captain at the competition and will be responsible for carrying out all duties therein.
 
-**Director of Procurement:** The Director of Procurement is responsible for overseeing and actualizing the procurement of goods necessary for the team’s operation. The DoP is similarly responsible for identifying adequate substitutes when a necessary resource cannot be obtained from the traditional supplier for a reasonable cost. All procurement requests must be approved by a faculty advisor. The DoP is also required to maintain a detailed, uptodate account of the team’s expenditures, available on request.
+**Director of Mechanical Newbie Education (DoMNR):** The Director of Mechanical Newbie Relations is responsible for the education of new members in mechanical engineering, engagining newbies in all efforts related to the robot or team, development of a curriculum, and ensuring the lessons are made in advance. The DoMNR is also responsible for ensuring the new members feel included, and have tasks during the off-season. The DoMNR is also responsible in making sure that all the veterans are well equipped andunderstand their task to help teach the newbies. They are also responsible for managing newbie education.
+
+**Director of Procurement (DoP):** The Director of Procurement is responsible for overseeing and actualizing the procurement of goods necessary for the team’s operation. The DoP is similarly responsible for identifying adequate substitutes when a necessary resource cannot be obtained from the traditional supplier for a reasonable cost. All procurement requests must be approved by a faculty advisor. The DoP is also required to maintain a detailed, uptodate account of the team’s expenditures, available on request.
 
 **Director of Design (DoD):** The Director of Design is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the Director of Design.
 
@@ -110,11 +112,11 @@ The Director of Strategy is also responsible for the selection, training, and pr
 
 ### Software Engineering
 
-**Director of Newbie Relations (SE) (DoNR):** The Director of Newbie Relations for software engineering is responsible for the education of new members in software engineering, development of a curriculum, and ensuring the lessons are made in advance. The DoNR is also responsible for ensuring the new members feel included, and have tasks during the off-season.
+**Director of Software Newbie Relations (SE) (DoSNR):** The Director of Software Newbie Relations is responsible for the education of new members in software engineering, engagining newbies in all efforts related to the robot or team, development of a curriculum, and ensuring the lessons are made in advance. The DoSNR is also responsible for ensuring the new members feel included, and have tasks during the off-season.
 
-**Assistant Director of Newbie Relations (SE) (ADoNR):** The Assistant Director of Newbie Relations should be primarily responsible for managing groups and communication and splitting up oldbie resources to most effectively promote group work. Beyond that, the ADoNR should also be responsible for assisting the DoNR with creating the curriculum, coming up with ideas, and lecturing. The Assistant Director of Newbie Relations is to be familiar with all aspects of newbie education and be ready to assume the jobs of Director of Newbie Relations if necessary.
+**Assistant Director of Software Newbie Relations (SE) (ADoSNR):** The Assistant Director of Software Newbie Relations should be primarily responsible for managing groups and communication and splitting up oldbie resources to most effectively promote group work. Beyond that, the ADoSNR should also be responsible for assisting the DoSNR with creating the curriculum, coming up with ideas, and lecturing. The Assistant Director of Software Newbie Relations is to be familiar with all aspects of newbie education and be ready to assume the jobs of Director of Software Newbie Relations if necessary.
 
-**Director of I/T (SE + Business) (DoIT):** Responsible for creating new technology related to team logistics, continuous integration and development of existing technology, documenting existing tools, teaching members interested in I/T. The director ensures that I/T responsibilities are focused on the team website, the team manager, and important tools for attendance. The director of I/T will also have to communicate with business to ensure the team's website is up to date.
+**Director of I/T (SE + Business) (DoIT):** Responsible for creating new technology related to team logistics, continuous integration and development of existing technology, documenting existing tools, teaching members interested in I/T. The director ensures that I/T responsibilities are focused on the team website, the team manager, and important tools for attendance. The director of I/T will also have to communicate with business to ensure the team's website is up to date. The Director of I/T is also responsible for raising violations of the EC/AC attendence policy.
 
 **Assistant Director of I/T (SE + Business) (ADoIT):** The Assistant Director of I/T should be familiar with the tools the I/T sub-department uses. The Assistant Director of I/T
 will be able to assume responsbility of Director of I/T whenever needed.
@@ -125,7 +127,7 @@ Elections will take place after the charter meeting each year. This is done in o
 
 ### Rules for Elections:
 
-- Elections will begin with a call of attendance, after which nobody may leave the room without permission and without filing an absentee ballot, assuming that member is eligible to vote.
+- Elections will begin with a call of attendance, after which nobody may leave the meeting without permission and without filing an absentee ballot, assuming that member is eligible to vote.
 - All members at or above a certain attendance percentage who have paid their team dues and have passed the safety test may attend and vote. This percentage will be decided by the EC and faculty advisors. Prior to the elections, a list of eligible members must be made available.
 - An absentee ballot is an official ballot on which the person leaving writes down the name of one person for every position for which they wish to cast a vote. The ballot will be given to the person in charge of elections. If the absentee does not choose a candidate for a position, they are abstaining from the vote for that position.
 - One team member, chosen by the Elected Council, will preside over elections as Moderator. They must uphold the rules, maintain order, and mediate any disputes that arise.
@@ -152,26 +154,24 @@ Each candidate is given up to four minutes to present his or her qualifications 
 
 ### Discussion
 
-A discussion will be held for each position following the presentations of those running for the position. The candidates are to be outside the room during the discussion period.
+A discussion will be held for each position following the presentations of those running for the position. The candidates are to be outside the main meeting during the discussion period.
 
 ### Voting:
 
-When the presentations are completed, all candidates will be asked to leave the room and voting will commence. Voting for a department's candidate will only be done by the department if that department has 9 or more members. Otherwise, the entire team will vote on that candidate. The current EC may vote for all department elections. Awards, Outreach, and Fundraising may vote for Business elections. I/T may vote for both SE and Business elections. The moderator may vote.
+When the presentations are completed, all candidates will be asked to leave the main meeting and voting will commence. Voting for a department's candidate will only be done by the department if that department has 9 or more members. Otherwise, the entire team will vote on that candidate. The current EC may vote for all department elections. Awards, Outreach, and Fundraising may vote for Business elections. I/T may vote for both SE and Business elections. The moderator may vote.
 
-Students will rank their nominees in order of preference from 1 to however many they wish to put. The votes are sorted based on who they ranked first. If there is a clear majority, that individual wins the first nomination. If there is not a clear majority, the nominee with the fewest votes will be removed, and their votes will then be sorted based on the second choice listed on the ballot. This will keep occurring until one nominee has a clear majority.
-After the first nominee is selected, the process is repeated with the same ballots to determine the second nominee.
 
 - Ballots will be counted by the Moderator and one official mentor. Vote totals will not be made public to the team.
 - Submitted ballots may only be viewed by the Moderator and the mentors. If another member of the team has intentionally viewed a ballot, that member will lose their right to vote for the remainder of the elections.
-- If no member is nominated for a position, the position will become appointed.
-- A “NONE” candidate is included in every election, including runoffs. If NONE wins the election, the position will become appointed.
-- In the event of a tie after runoffs, the position will become appointed. Only the candidates who tied the vote may be appointed to the position, unless they are elected or appointed to another position first.
+- Students will rank their nominees in order of preference from 1 to however many they wish to put.
+- The votes are sorted based on who they ranked first.
+- If there is a clear majority, that individual wins the first nomination.
+- If there is not a clear majority, the nominee with the fewest votes will be removed, and their votes will then be sorted based on the second choice listed on the ballot.
+- This will keep occurring until one nominee has a clear majority.
+- After the first nominee is selected, the process is repeated with the same ballots to determine the second nominee.
+- A “NONE” candidate is included in every election If NONE wins the election, the position will become appointed.
 - A member may choose to abstain from voting during the election for any given position.
 - If a candidate is running unopposed, then the voting process will be expedited with a limited question and answer period.
-- If more than two candidates are running for a given position, the following will occur:
-- Each member of the department or team will be given one vote to be cast towards a candidate. If a given candidate gets a majority vote, they will be immediately be appointed without a runoff. If no candidate gets a majority vote, the top two candidates will go into a runoff.
-- If there is no majority vote or if only two members are nominated for a given position, the election automatically goes to a runoff.
-- Every member of the department or team will vote for one of the two candidates and the candidate with the highest number of votes wins. If the case that a two-thirds majority of the members choose not to vote, the position will become appointed.
 - In the case that no member is elected to any position, all present members of the current EC/AC will appoint the Presidents to represent the new EC/AC and follow the procedures of appointment.
 
 ## Appointment:
@@ -189,7 +189,7 @@ AC positions may be held by any team member, regardless of the department that t
 Any member of the EC/AC, Impact Team, or drive team may be impeached for reasons that include but aren’t limited to:
 
 - Dereliction of duty
-- Poor attendance, meaning missing 4 or more of last 10 meetings
+- Poor attendance, meaning missing 4 or more of last 10 meetings. (Enforced by Director of I/T)
 - Ignoring or disregarding the general will of the team
 - Performing actions that are legally or morally detrimental to the team, such as:
   - Embezzlement
@@ -199,7 +199,7 @@ Any member of the EC/AC, Impact Team, or drive team may be impeached for reasons
 
 Impeachment proceedings for EC/AC are initiated through warnings given by a two-thirds majority of the EC/AC. The officer in question may defend himself/herself, and a two-thirds majority of the entire team will uphold the impeachment.
 
-Any officers, unless suspended by the faculty advisor(s), may be reappointed at any time by a two-­thirds majority vote of the Elected Members. In the event of an impeachment or in the event that a member of the EC/AC resigns, the position will be filled by a two-thirds majority vote of the remaining EC/AC. When the position of President of Engineering, President of Business, or President of Software Engineering is vacant, his/her Vice President may temporarily fill the position as President until the EC/AC has elected another member of the team to serve as President.
+Any officers, unless suspended by the faculty advisor(s), may be reappointed at any time by a two-­thirds majority vote of the Elected Members. In the event of an impeachment or in the event that a member of the EC/AC resigns, the position will be filled by a two-thirds majority vote of the remaining EC/AC. When the position of President of Mechanical Engineering, President of Business, or President of Software Engineering is vacant, his/her Vice President may temporarily fill the position as President until the EC/AC has elected another member of the team to serve as President.
 
 Impeachment proceedings for the Impact and drive team are initiated through warnings given by those responsible for each team.
 
