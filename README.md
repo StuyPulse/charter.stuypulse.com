@@ -59,7 +59,7 @@ The new Elected Council for the next school year will update the charter amendme
 
 **Vice President of Software Engineering (VPoSE):** The Vice President of Software Engineering is the second-in-command for the Software Engineering department. They have knowledge of what the President of Software Engineering is currently doing and should be able to direct the Software Engineering department in the event of the PoSE’s absence, as well as collaborate with the President of Mechanical Engineering in managing the overall robot project.
 
-It is the responsibility of the EC to create an annual Operations Plan. The Operations Plan includes the administrative process of the team to improve quality and increase efficiency in operation. It may include preliminary budgets and operational strategies for each department and a timeline for the pre­season, build season, and competition season.
+It is the responsibility of the EC to create an annual Operations Plan. The Operations Plan includes the administrative process of the team to improve quality and increase efficiency in operation. It may include preliminary budgets and operational strategies for each department and a timeline for the pre­season, build season, and competition season. EC members are required to attend all competitions/regionals during the season, unless extenuating circumstances (health, family emergencies, etc.) which must be explained to Mr. Blay ASAP. 
 
 ## Appointed Council (AC):
 
