@@ -118,7 +118,7 @@ The Director of Strategy is also responsible for the selection, training, and pr
 
 **Assistant Director of Software Newbie Relations (SE) (ADoSNR):** The Assistant Director of Software Newbie Relations should be primarily responsible for managing groups and communication and splitting up oldbie resources to most effectively promote group work. Beyond that, the ADoSNR should also be responsible for assisting the DoSNR with creating the curriculum, coming up with ideas, and lecturing. The Assistant Director of Software Newbie Relations is to be familiar with all aspects of newbie education and be ready to assume the jobs of Director of Software Newbie Relations if necessary.
 
-**Director of I/T (SE + Business) (DoIT):** Responsible for creating new technology related to team logistics, continuous integration and development of existing technology, documenting existing tools, teaching members interested in I/T. The director ensures that I/T responsibilities are focused on the team website, the team manager, and important tools for attendance. The director of I/T will also have to communicate with business to ensure the team's website is up to date.
+**Director of I/T (SE + Business) (DoIT):** Responsible for creating new technology related to team logistics, continuous integration and development of existing technology, documenting existing tools, teaching members interested in I/T. The director ensures that I/T responsibilities are focused on the team website, the team manager, and important tools for attendance. The director of I/T will also have to communicate with business to ensure the team's website is up to date. The Director of I/T is also responsible for raising violations of the EC/AC attendence policy.
 
 **Assistant Director of I/T (SE + Business) (ADoIT):** The Assistant Director of I/T should be familiar with the tools the I/T sub-department uses. The Assistant Director of I/T
 will be able to assume responsbility of Director of I/T whenever needed.
@@ -191,7 +191,7 @@ AC positions may be held by any team member, regardless of the department that t
 Any member of the EC/AC, Impact Team, or drive team may be impeached for reasons that include but aren’t limited to:
 
 - Dereliction of duty
-- Poor attendance, meaning missing 4 or more of last 10 meetings
+- Poor attendance, meaning missing 4 or more of last 10 meetings. (Enforced by Director of I/T)
 - Ignoring or disregarding the general will of the team
 - Performing actions that are legally or morally detrimental to the team, such as:
   - Embezzlement
