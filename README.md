@@ -97,7 +97,7 @@ The Director of Strategy is also responsible for the selection, training, and pr
 
 **Director of Finance (DoF):** The Director of Finance is directly responsible for creating the yearly Financial Plan to indicate the fundraising goal for the year. In addition, the Director of Finance is also responsible for fundraising through applying for grants and contacting current or potentially new sponsors. The Director of Finance must also maintain stable relationships with sponsors and contact them on a regular basis.
 
-**Director of Impact (DoI):** Part of business AC. Leads all Impact efforts including documentation, presentation, and scheduling practices. Presents Impact alongside two other presenters chosen via tryouts. 
+**Director of Impact (DoI):** Part of business AC. Leads all Impact efforts including documentation, presentation, and scheduling practices. They are in charge of making sure presenters get tried out and may be a presenter. 
 
 **Director of Operations (DoO):** The Director of Operations will handle the day-­to-­day operations of the entire team. The Director of Operations is responsible for all paperwork, trip planning, managing deadlines and other logistics regarding the team. Their responsibilities may include collecting team dues, participant information like IDs, and attendance.
 
