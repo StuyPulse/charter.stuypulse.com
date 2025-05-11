@@ -11,12 +11,11 @@
 - [Appointment](#appointment)
 - [Impeachment](#impeachment)
 - [Awards](#awards)
-- [PulseLabs](#pulselabs-description)
 - [Additional Amendments](#additional)
 
 ## Mission/Purpose: <a id="missionpurpose"></a>
 
-This is a student led club designed to promote interest in the study of robotics and STEM through the teamwork of students, parents, mentors, and sponsors. We increase robotics and STEM awareness in our community and encourage education in engineering, computer science, web design, 3D animation, business, fundraising, and marketing. The club participates in robotics competitions, including ones organized by FIRST, an international robotics organization.
+This is a student led club designed to promote interest in the study of robotics and STEM through the teamwork of students, parents, mentors, and sponsors. We increase robotics and STEM awareness in our community and encourage education in engineering, computer science, web design, business, fundraising, and marketing. The club participates in robotics competitions, including ones organized by FIRST, an international robotics organization.
 
 ## Description: <a id="description"></a>
 
@@ -29,10 +28,6 @@ Our software engineering department develops the software used to control the ro
 Our business department provides real-world experience in non-profit fundraising and advertising as well as managing the logistics of a large team.
 
 Our strategy team, comprised of members from all three departments, offers strategic assistance regarding robot design, gameplay, and alliance selections.
-
-Our PulseLabs team is responsible for ensuring all research and development projects that the team undertakes are documented and assist EC in managing research as needed. Read more about PulseLabs [here](#pulselabs-description). 
-
-- *The validity period of PulseLabs, and related AC roles, will be of one year, and the team must vote to renew PulseLabs, or vote to solidify PulseLab's place within the team for perpetuity, unless removed by amendment, at the following **(2025)** charter amendment meeting.*
 
 Our media team, comprised of members from all three departments, is led by the business department and is in charge of all media related matters (e.g. videos, pictures, etc.).
 
@@ -52,13 +47,13 @@ The new Elected Council for the next school year will update the charter amendme
 
 ## Elected Council (EC): <a id="ec"></a>
 
-**President of Mechanical Engineering (PoME):** The President of Mechanical Engineering manages and oversees the construction and maintenance of the robot. They delegate the construction of the mechanisms of the robot. They are familiar with every mechanisms of the robot and able to explain the mechanisms to another team member or a judge. The PoE is also responsible for making administrative decisions for newbie education. Throughout the build season, they are a major contributor to the CAD and oversee the pits during competitions. They also communicate and work closely with the PoSE, Director of Electronics, and Director of Pneumatics to maintain the robot's systems.
+**President of Mechanical Engineering (PoME):** The President of Mechanical Engineering manages and oversees the construction and maintenance of the robot. They delegate the construction of the mechanisms of the robot. They are familiar with every mechanisms of the robot and able to explain the mechanisms to another team member or a judge. The PoE is also responsible for making administrative decisions for newbie education. Throughout the build season, they are a major contributor to the CAD and oversee the pits during competitions. They also communicate and work closely with the PoSE, Director of Electronics, and Director of Design to maintain the robot's systems.
 
 **President of Business (PoB):** The President of Business holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Impact Award or assign the presentation to someone else deemed competent. The PoB also has adequate knowledge of the other two departments.
 
 **President of Software Engineering (PoSE):** The President of Software Engineering balances the development and delegation for newbie education and member training, in-season robot coding / testing, team code libraries, and research projects. The President of Software Engineering should also uphold commendable coding practices and clean Git practices for team repositories (e.g. commented code, PR’s often, test before merge). The President is responsible for working with the Director of Newbie Relations to handle newbie training and engagement year-round. The PoSE also collaborates with the Strategy team to develop effective solutions for both the teleoperated and autonomous modes. During build season, the PoSE is responsible for scheduling code reviews to ensure team members are informed about the state of the robot code. Additionally, the President should bridge the gap with the Mechanical Engineering department during this time to build an interdepartmental understanding of prototypes, finalized mechanisms, and the robot as a whole. Furthermore, the President of Software Engineering, along with the President of Mechanical Engineering, should collaborate on testing time with the robot with the goal of making the robot as competition-ready as possible.
 
-**Vice President of Mechanical Engineering (VPoME):** The Vice President of Mechanical Engineering is considered the second-in-command for the Mechanical Engineering department. They have knowledge of what the Presidents are currently doing and is able to direct the Mechanical Engineering division in the event of the PoME’s absence. The VPoME also has extensive knowledge of each part of the robot as well as basic knowledge of all awards submissions.
+**Vice President of Mechanical Engineering (VPoME):** The Vice President of Mechanical Engineering is considered the second-in-command for the Mechanical Engineering department. They have knowledge of what the Presidents are currently doing and is able to direct the Mechanical Engineering division in the event of the PoME’s absence. The VPoME also has extensive knowledge of each part of the robot.
 
 **Vice President of Business (VPoB):** The Vice President of Business is the second-in-command for the Business department. The VPoB should have knowledge of what the President of Business is currently doing and should be able to direct the Business department in the event of the PoB’s absence. They have extensive knowledge of all award submissions as well as basic knowledge of each part of the robot.
 
@@ -71,16 +66,6 @@ It is the responsibility of the EC to create an annual Operations Plan. The Oper
 Directors and assistant directors are responsible for seeing the completion of their respective jobs, but do not necessarily have to be the ones to complete the job. The role of the director and assistant director is to ensure the job is completed, and to organize/delegate the job(s) to members of the team who wish to help in their specific area.
 
 Assistant directors must be appointed after directors. This is to ensure that directors have a say in who their assistants will be.
-
-### PulseLabs <a id="pulselabs-ac"></a>
-
-*The validity period of PulseLabs, and related AC roles, will be of one year, and the team must vote to renew PulseLabs, or vote to solidify PulseLab's place within the team for perpetuity, unless removed by amendment, at the following **(2025)** charter amendment meeting.*
-
-**Director of PulseLabs (DoPLs):** The Director of PulseLabs will **assist the EC** in organizing all research and development (R&D) efforts. They will maintain a system of documentation distribution, ensure documentation produced by PulseLabs members are up to standards outlined by authoritative documents, update said authoritative documents as needed. They should have a level of understanding of all ongoing and past research projects, maintain a clear line of communication with the EC to ensure research goes smoothly and subsequent knowledge is communicated and applied, ensure researched knowledge is transferred to the larger team, ensure research efforts are published in a timely manner, and publish an annual report as to the state of PulseLabs, which is to be completed by the end of the school year (see [exception in the PulseLabs section](#pulselabs-description) for the 2025 season).
-
-During the off-season, the DoPLs will be primarily responsible for assisting the EC in organizing, supporting, and understanding these research efforts. They will also be responsible for ensuring that the research efforts are documented and published in a timely manner and for ensuring that the research efforts are communicated to the rest of the team.
-
-During the build season, the DoPLs will be responsible for assisting the EC in ensuring that the research efforts are communicated to the rest of the team, and that the knowledge gained from such research efforts are applied to the robot. The DoPLs will also be responsible for ensuring that the robot's design and features, especially those derived from research efforts, are documented, updated, and published as necessary.
 
 ### Strategy
 
@@ -97,7 +82,9 @@ The Director of Strategy is also responsible for the selection, training, and pr
 
 **Director of Finance (DoF):** The Director of Finance is directly responsible for creating the yearly Financial Plan to indicate the fundraising goal for the year. In addition, the Director of Finance is also responsible for fundraising through applying for grants and contacting current or potentially new sponsors. The Director of Finance must also maintain stable relationships with sponsors and contact them on a regular basis.
 
-**Director of Impact (DoI):** Part of business AC. Leads all Impact efforts including documentation, presentation, and scheduling practices. They are in charge of making sure presenters get tried out and may be a presenter. 
+**Director of Impact (DoI):** The Director of Impact will lead all efforts to prepare for the Impact Award, including documentation, presentation, and scheduling practices. They will communicate with EC/AC of all departments to sustain team culture and work alongside the DoA to cover goals for awards. They are in charge of Impact presenter try-outs and may be a presenter. They will prepare and print any needed material. Other submitted awards will be led by the Business EC/AC.
+ 
+**Director of Awards (DoA):** The Director of Awards will coordinate and lead the efforts for all non-submitted awards. They will have the responsibilities of judged awards and pit training members. They will also work alongside all departments and leadership to best document and construct these awards. They are responsible for printing and assembling the awards for competition. They will work alongside the Director of Impact to connect initiatives and planning for the awards."
 
 **Director of Operations (DoO):** The Director of Operations will handle the day-­to-­day operations of the entire team. The Director of Operations is responsible for all paperwork, trip planning, managing deadlines and other logistics regarding the team. Their responsibilities may include collecting team dues, participant information like IDs, and attendance.
 
@@ -107,23 +94,23 @@ The Director of Strategy is also responsible for the selection, training, and pr
 
 ### Mechanical Engineering
 
-**Director of Electronics (DoE):** The Director of Electronics sets up and manages the electronic systems on the robot to FIRST regulations. They cooperate with both engineers and software engineers to ensure that the electronic systems are organised and able to be modified if needed. The DoE is also responsible for the education of other members in the electronics subdepartment. The Director of Electronics is also responsible for the creation and management of the pneumatic system on the robot according to FIRST regulations. The director is responsible for the upkeep and maintenance of all compressors, solenoids, and pistons. 
+**Director of Electronics (DoE):** The Director of Electronics sets up and manages the electronic systems on the robot to FIRST regulations. They cooperate with both engineers and software engineers to ensure that the electronic systems are organised and able to be modified if needed. The DoE is also responsible for the education of other members in the electronics subdepartment. The Director of Electronics is also responsible for the creation and management of the pneumatic system on the robot according to FIRST regulations. The director is responsible for the upkeep and maintenance of all compressors, solenoids, and pistons. Additionally, they are responsibile for the CAD associated with the control system, including the vision.
 
 **Assistant Director of Electronics (ADoE):** The Assistant Director of Electronics is familiar with all aspects of the electronic systems on the robot and be able to assume the jobs of Director of Electronics at any time. 
 
-**Director of Lab Operations and Safety (DoLOS):** The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. They are responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. The DoLOS is also responsible for ensuring that all necessary safety rules are observed in the lab during build season. The DoLOS will automatically be appointed Safety Captain at the competition and will be responsible for carrying out all duties therein.
+**Director of Lab Operations and Safety (DoLOS):** The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. They are responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. The DoLOS is also responsible for ensuring that all necessary safety rules are observed in the lab during build season.
 
 **Director of Mechanical Newbie Education (DoMNR):** The Director of Mechanical Newbie Relations is responsible for the education of new members in mechanical engineering, engagining newbies in all efforts related to the robot or team, development of a curriculum, and ensuring the lessons are made in advance. The DoMNR is also responsible for ensuring the new members feel included, and have tasks during the off-season. The DoMNR is also responsible in making sure that all the veterans are well equipped andunderstand their task to help teach the newbies. They are also responsible for managing newbie education.
 
 **Director of Procurement (DoP):** The Director of Procurement is responsible for overseeing and actualizing the procurement of goods necessary for the team’s operation. The DoP is similarly responsible for identifying adequate substitutes when a necessary resource cannot be obtained from the traditional supplier for a reasonable cost. All procurement requests must be approved by a faculty advisor. The DoP is also required to maintain a detailed, uptodate account of the team’s expenditures, available on request.
 
-**Director of Design (DoD):** The Director of Design is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the Director of Design.
+**Director of Design (DoD):** The Director of Design is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the Director xof Design.
 
-**Director of Machining (DoM):** The Director of Machining is responsible for the maintaining the mill, lathe, and their parts. He/she must also make sure that there will be at least two members of the team that will be able to use the mill in the upcoming year, including the Director of Machining. If there are fewer than two such members, the Director of Machining is responsible for training new members.
+**Directors of Machining(DoM & ADoM):** There are three leadership positions total, one for each section of the machining department (Waterjet; CNC and Laser Cutter; Bridgeport, Lathe, and other miscellaneous machines). Two of these positions are the ADoM, while the DoM position is for one qualified member who is specialized in at least one machining section and is willing to learn/has experience in the other machining sections. The DoM's primary responsibility is to supervise the machining subcategories while leading their respective sections of machining, while also providing feedback to other ADoMs and members of their respective sections. The DoM represents machining as a whole when it comes to general discussions and final decisions
 
-**Assistant Director of Machining (ADoM):** The Assistant Director of Machining is familiar with the mill, lathe, and their parts, and be able to assume the jobs of Director of Machining at any time.
+**Director of Field Construction (DoFC):** It is the job of the Director of Field Construction to construct the field of the released game with acceptable accuracy. For each function that the robot has to perform, it is this person’s responsibility to ensure that at least one set of the field elements involved in that task is procured and produced. The DoFC is also responsible for developing a miniature, compact field, which can be used to test major functions of our robot, and be brought and used in the pits at each compeition. They are responsible for the upkeep of the shipping/robot crates and building new robot carts.
 
-**Director of Field Construction (DoFC):** It is the job of the Director of Field Construction to construct the field of the released game with acceptable accuracy. For each function that the robot has to perform, it is this person’s responsibility to ensure that at least one set of the field elements involved in that task is procured and produced. However, the DoFC will also be responsible for all other fields, including FLL, FTC, and FRC fields. They are responsible for the upkeep of the shipping/robot crates and building new robot carts.
+**Director of 3D Printing (Do3DP)**: The Director of 3D Printing is responsible for maintaining all 3D printers, including routine hardware upkeep, firmware updates, and calibration of mechanical and extrusion systems. They must also master and incorporate advanced features and settings (multi-material profiles, custom slicer configurations, support generation strategies, high-speed printing modes, etc.) to optimize print quality and reliability across every platform. They also need to be updated on new developments in the 3D Printing space as to provide upgrades or improvements to the team's systems. This includes but is not limited to, new materials, upgraded parts, and improved strategies.
 
 ### Software Engineering
 
@@ -201,40 +188,18 @@ AC positions may be held by any team member, regardless of the department that t
 
 ## Impeachment: <a id="impeachment"></a>
 
-Any member of the EC/AC, Impact Team, or drive team may be impeached for reasons that include but aren’t limited to:
+The head coach, with the input of the EC/AC (when appropriate) can remove a member of the EC/AC for actions including, but not limited to:
 
 - Dereliction of duty
-- Poor attendance, meaning missing 4 or more of last 10 meetings. (Enforced by Director of I/T)
+- Poor attendance
 - Ignoring or disregarding the general will of the team
-- Performing actions that are legally or morally detrimental to the team, such as:
+- Performing actions that are detrimental to the team, such as:
   - Embezzlement
   - Disregard for safety
   - Intimidation of members
   - Misappropriation of team resources
 
-Impeachment proceedings for EC/AC are initiated through warnings given by a two-thirds majority of the EC/AC. The officer in question may defend himself/herself, and a two-thirds majority of the entire team will uphold the impeachment.
-
-Any officers, unless suspended by the faculty advisor(s), may be reappointed at any time by a two-­thirds majority vote of the Elected Members. In the event of an impeachment or in the event that a member of the EC/AC resigns, the position will be filled by a two-thirds majority vote of the remaining EC/AC. When the position of President of Mechanical Engineering, President of Business, or President of Software Engineering is vacant, his/her Vice President may temporarily fill the position as President until the EC/AC has elected another member of the team to serve as President.
-
-Impeachment proceedings for the Impact and drive team are initiated through warnings given by those responsible for each team.
-
-Those responsible for the Impact Team include:
-
-- EC
-- Members of the Impact Team
-
-Those responsible for the drive team include:
-
-- EC
-- DoS
-- ADoS
-- Members of drive team
-
-The member in question may defend himself/herself, and the EC may uphold a decision to immediately remove the member under extreme circumstances.
-
-Any Impact or drive team member, unless suspended by the faculty advisor(s), may be reappointed at any time by a simple majority of those responsible for each team. In the event of an impeachment or in the event that a member of the drive team or Impact Team resigns, the position will be filled by a simple majority vote of those responsible for each team.
-
-Impeachment shall not be used to settle political or personal disputes.
+Vacated EC positions will be filled by an emergency election. Vacated AC positions will then be filled by the standard AC nomination process via EC vote.
 
 ## Awards: <a id="awards"></a>
 
@@ -250,7 +215,7 @@ All veteran members of the team are allowed to take part in the Woodie Flowers A
 
 The nomination process will begin with the moderator(s) asking for any nominations for the award, excluding any previous Woodie Flowers Award Finalists. Members will then be allowed to state their nominations, and their reasoning. The nominee must be seconded by another member to considered in the final vote.
 
-Once all nominations are made, discussion will be allowed. The amount of time allowed for discussion is left to the moderator’s discretion. If you nominate a candidate, you are accepting the responbility to lead that submission if no one else steps up.
+Once all nominations are made, discussion will be allowed. The amount of time allowed for discussion is left to the moderator’s discretion.
 
 After the discussion period is over, all members will close their eyes.
 
@@ -296,35 +261,6 @@ In the event of a tie, a runoff vote will be held with those nominees.
 Another round of voting will be held with the same nominees, excluding the already selected individual. The nomination process will follow the same procedure as it does for the first selection.
 
 After selecting two students for the award, the moderators shall inform the head coaches about who was selected. After their selection is approved, the nominees may be informed.
-
-## PulseLabs: <a id="pulselabs-description"></a>
-
-*The validity period of PulseLabs, and related AC roles, will be of one year, and the team must vote to renew PulseLabs, or vote to solidify PulseLab's place within the team for perpetuity, unless removed by amendment, at the following **(2025)** charter amendment meeting.*
-
-*For the **(2025)** FRC season, the PulseLabs annual report must be completed at least approximately 1 week, or with enough time such that the performance and efficacy of PulseLabs may be reviewed by the team, prior to the annual Charter Amendment Meeting.*
-
-PulseLabs is an overseeing body within StuyPulse that is responsible for assisting EC in organizing and documenting all research and development projects within the team. Team members are encouraged to participate in efforts to further the team's knowledge within their respective departments, and PulseLabs will be responsible for ensuring that these efforts are documented. PulseLabs will be responsible for aiding the team in furthering and archiving the team's knowledge to gain a more competitive edge through advanced technology in FRC. Any effort towards advanced knowledge or technology will be within the purview of PulseLabs and its documentation requirements. Research in new technologies and techniques will become a key part of the team's success as we meld novel technologies with the tried and true methods of the past. 
-
-### Leadership:
-
-PulseLabs will be led by 2 Directors of PulseLabs (DoPLs), and their responsibilities are detailed [here](#pulselabs-ac) under the Appointed Council section. DoPLs should be chosen on the basis of interest in helping further the team's knowledge and performance through the application of novel technologies or techniques, along with managing the documentation process. There is no requirement for which department the DoPLs must come from, but they must have a strong understanding of the team's operations and a willingness to learn about new technologies and techniques.
-
-### Responsibilities:
-
-- Ensuring EC members of their respective departments are informed of these research efforts, the results of these efforts, and the applications of these efforts.
-- Ensure the transfer of knowledge from research efforts to the rest of the team.
-- Maintain a detailed and open record of all research and development projects undertaken with the support of the team.
-- Documenting the key components and results of any research effort.
-- Sustain and utilize a comprehensive and consistent system in publishing, for both internal and external usage, of research efforts, results, and applications.
-- Publish an annual report as to the state of PulseLabs, including ongoing and completed research, by the end of the school year.
-
-### Documentation:
-
-All research and development projects undertaken by the team must be documented in a manner that is accessible to all members of the team. This documentation will also be made available to the public, unless designated otherwise by the DoPL and/or EC, using means such as but not limited to through the team's website and Chief Delphi. A system must be in place to ensure that all documentation produced by PulseLabs are distributed, stored, and archived in a manner that is accessible by any party at any point in the future.
-
-The format and types of documentation will be standardized according to a series of authoritative documents, and all documentation must follow the guidelines set forth in these documents. These authoritative documents may undergo revision by the DoPL and the EC. All documents must be reviewed and approved by the DoPL before being published to ensure for the quality of the document. The DoPL may request for changes to be made to the document before approval. 
-
-All research efforts done in the team must have documentation attached to them, maintained throughout the research process, updated as necessary. This documentation may be in the form of a running document or a series of Technical Memorandums released at key points in a research effort. Documentation includes maintaining an accurate and complete list of references to all sources used in the research effort, including but not limited to books, articles, and websites. A Technical Article must be released at the conclusion of any research effort, regardless of the success of the effort, which should summarize findings, methodology, conclusions, further research, applications, etc.
 
 ## Additional Amendments: <a id="additional"></a>
 
