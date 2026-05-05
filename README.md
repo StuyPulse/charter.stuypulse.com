@@ -7,7 +7,7 @@
 - [Charter Amendments](#amendments)
 - [Executive Council (EC)](#ec)
 - [Appointed Council (AC)](#ac)
-- [Elections](#elections)
+- [Executive Council Selection Process](#ecsp)
 - [Appointment](#appointment)
 - [Impeachment](#impeachment)
 - [Awards](#awards)
@@ -44,8 +44,6 @@ The amendment process will begin sometime after the last official competition of
 The presidents of the team will preside over the charter meeting. They will decide on the order in which to address emailed proposals. Each proposal will be read and must be seconded to move to an initial vote to see where people stand. If the vote is unanimous, there will be no discussion or second vote. If there are conflicting views, members will be given time to discuss their thoughts on the issue. After discussion, the presidents will call for a final vote, where the majority decides the fate of the proposal. If the faculty advisor finds any issue with a part of the charter, there will be another charter meeting to revise the problematic parts.
 The Moderator(s) of the charter meeting shall appoint a minutes taker. The minutes will be made publicly available to all members of the team, present at the charter meeting or otherwise.
 The new Executive Council for the next school year will update the charter amendments in a timely manner and before the next charter meeting.
-
-Replacing elections. The "Elected Council" will now be called the "Executive Council" and all mentions of the Elected Council in the charter will be changed. For each EC position, students will fill out an application and go through an interview process. The applications, interviews, and ultimate decision will be made by a "leadership group " consisting of senior outgoing EC members, the head coach, relevant and interested senior student members, and mentors as determined by the senior EC members and the head coach. All applications will be publicized as with the candidacy emails of the past. In addition, via a method determined by the Leadership Group, all students will get the chance to share their opinions of the candidates with the leadership group. The Leadership Group must give all students the opportunity to share their thoughts on the candidates.
 
 The EC can, with a majority and faculty advisor approval, create single-season assistant director roles for any existing director position in order to add an assistant when appropriate. The assistant director role may be voted on like any proposed new position at the next charter meeting. The position will not be added to the charter until this vote takes place.
 
@@ -129,7 +127,7 @@ Each individual leader is responsible for making sure that all machines are main
 **Assistant Director of I/T (SE + Business) (ADoIT):** The Assistant Director of I/T should be familiar with the tools the I/T sub-department uses. The Assistant Director of I/T
 will be able to assume responsbility of Director of I/T whenever needed.
 
-## Executive Council Selection Process: <a id="elections"></a>
+## Executive Council Selection Process: <a id="ecsp"></a>
 
 For each EC position, students will fill out an application and go through an interview process. The applications, interviews, and ultimate decision will be made by a "Leadership Group" consisting of senior outgoing EC members, the head coach, relevant and interested senior student members, and mentors as determined by the senior EC members and the head coach. All applications will be publicized in the same manner as candidacy emails were in the past. Via a method determined by the Leadership Group, all students will get the chance to share their opinions of the candidates with the Leadership Group. The Leadership Group must give all students the opportunity to share their thoughts on the candidates.
 
