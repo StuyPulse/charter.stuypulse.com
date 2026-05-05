@@ -129,22 +129,13 @@ Each individual leader is responsible for making sure that all machines are main
 **Assistant Director of I/T (SE + Business) (ADoIT):** The Assistant Director of I/T should be familiar with the tools the I/T sub-department uses. The Assistant Director of I/T
 will be able to assume responsbility of Director of I/T whenever needed.
 
-## Elections: <a id="elections"></a>
+## Executive Council Selection Process: <a id="elections"></a>
 
-Elections will take place after the charter meeting each year. This is done in order to give the newly elected officials a chance to become familiar with the position and with the handling of the team. After members have been elected to their positions, they will appoint members to the AC. There is no term limit for any position, but candidates must run for election every year, whether or not there is any opposition. A member of the team who will no longer be a Stuyvesant student the following year or who is not eligible to vote may not run for any elected position.
+For each EC position, students will fill out an application and go through an interview process. The applications, interviews, and ultimate decision will be made by a "Leadership Group" consisting of senior outgoing EC members, the head coach, relevant and interested senior student members, and mentors as determined by the senior EC members and the head coach. All applications will be publicized in the same manner as candidacy emails were in the past. Via a method determined by the Leadership Group, all students will get the chance to share their opinions of the candidates with the Leadership Group. The Leadership Group must give all students the opportunity to share their thoughts on the candidates.
 
-### Rules for Elections:
+A member of the team who will no longer be a Stuyvesant student the following year or who is not eligible may not apply for any EC position.
 
-- Elections will begin with a call of attendance, after which nobody may leave the meeting without permission and without filing an absentee ballot, assuming that member is eligible to vote.
-- All members at or above a certain attendance percentage who have paid their team dues and have passed the safety test may attend and vote. This percentage will be decided by the EC and faculty advisors. Prior to the elections, a list of eligible members must be made available.
-- An absentee ballot is an official ballot on which the person leaving writes down the name of one person for every position for which they wish to cast a vote. The ballot will be given to the person in charge of elections. If the absentee does not choose a candidate for a position, they are abstaining from the vote for that position.
-- One team member, chosen by the Executive Council, will preside over elections as Moderator. They must uphold the rules, maintain order, and mediate any disputes that arise.
-
-### Order of Elections:
-
-The Presidents of each department must be elected before The Vice Presidents. The order of The Vice Presidents may be the reverse order of The Presidents, but it is at the discretion of the Moderator.
-
-### Election Process:
+There is no term limit for any position, but members must reapply every year.
 
 The following election process will be followed for every position.
 
@@ -153,34 +144,6 @@ The following election process will be followed for every position.
 - Members must send out a candidacy email prior to elections in order to run for an elected position.
 - A person becoming a senior in the following year may not run for vice presidency.
 - A person may run for any position absentee if approved by two members of the current EC. The two members of the EC who approved the candidate will serve as one nomination for the candidate. This nomination must be seconded at the election by someone other than the two EC members who approved the absentee candidate.
-
-### Candidate Presentations:
-
-At the start of a position being spoken about, the moderator will share the candidates' attendance rate.
-
-Each candidate is given up to four minutes to present his or her qualifications for the position. The order of the presentation will be determined by the members running the election.
-
-### Discussion
-
-A discussion will be held for each position following the presentations of those running for the position. The candidates are to be outside the main meeting during the discussion period.
-
-### Voting:
-
-When the presentations are completed, all candidates will be asked to leave the main meeting and voting will commence. Voting for a department's candidate will only be done by the department if that department has 9 or more members. Otherwise, the entire team will vote on that candidate. The current EC may vote for all department elections. Awards, Outreach, and Fundraising may vote for Business elections. I/T may vote for both SE and Business elections. The moderator may vote.
-
-
-- Ballots will be counted by the Moderator and one official mentor. Vote totals will not be made public to the team.
-- Submitted ballots may only be viewed by the Moderator and the mentors. If another member of the team has intentionally viewed a ballot, that member will lose their right to vote for the remainder of the elections.
-- Students will rank their nominees in order of preference from 1 to however many they wish to put.
-- The votes are sorted based on who they ranked first.
-- If there is a clear majority, that individual wins the first nomination.
-- If there is not a clear majority, the nominee with the fewest votes will be removed, and their votes will then be sorted based on the second choice listed on the ballot.
-- This will keep occurring until one nominee has a clear majority.
-- After the first nominee is selected, the process is repeated with the same ballots to determine the second nominee.
-- A “NONE” candidate is included in every election If NONE wins the election, the position will become appointed.
-- A member may choose to abstain from voting during the election for any given position.
-- If a candidate is running unopposed, then the voting process will be expedited with a limited question and answer period.
-- In the case that no member is elected to any position, all present members of the current EC/AC will appoint the Presidents to represent the new EC/AC and follow the procedures of appointment.
 
 ## Appointment: <a id="appointment"></a>
 
