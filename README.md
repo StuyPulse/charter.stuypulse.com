@@ -139,9 +139,8 @@ The following election process will be followed for every position.
 
 ### Candidacy Announcement:
 
-- Members must send out a candidacy email prior to elections in order to run for an elected position.
-- A person becoming a senior in the following year may not run for vice presidency.
-- A person may run for any position absentee if approved by two members of the current EC. The two members of the EC who approved the candidate will serve as one nomination for the candidate. This nomination must be seconded at the election by someone other than the two EC members who approved the absentee candidate.
+- Members must send out a candidacy email prior to the selection process in order to be considered for an EC position.
+- A person becoming a senior in the following year may not apply for vice presidency.
 
 ## Appointment: <a id="appointment"></a>
 
